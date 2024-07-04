@@ -7,6 +7,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jeeteshwar/LeetCode/tree/master/0002-add-two-numbers) |
 | [0908-middle-of-the-linked-list](https://github.com/Jeeteshwar/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Jeeteshwar/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,4 +82,8 @@
 | ------- |
 | [0100-same-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0100-same-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Jeeteshwar/LeetCode/tree/master/0617-merge-two-binary-trees) |
+## Simulation
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Jeeteshwar/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
