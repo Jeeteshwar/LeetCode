@@ -22,6 +22,7 @@
 ## Array
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0349-intersection-of-two-arrays](https://github.com/Jeeteshwar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/Jeeteshwar/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -72,6 +73,7 @@
 | [0100-same-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Jeeteshwar/LeetCode/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
@@ -93,6 +95,7 @@
 | [0100-same-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Jeeteshwar/LeetCode/tree/master/0617-merge-two-binary-trees) |
 ## Simulation
 |  |
@@ -103,4 +106,12 @@
 |  |
 | ------- |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Jeeteshwar/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
