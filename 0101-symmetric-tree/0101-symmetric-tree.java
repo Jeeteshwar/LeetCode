@@ -14,17 +14,17 @@
  * }
  */
 class Solution {
-    public boolean check(TreeNode root1,TreeNode root2){
-        if(root1 == null && root2 == null){ // if both trees are null return true
+    public boolean check(TreeNode p,TreeNode q){
+        if(p == null && q == null){ // if both trees are null return true
             return true;
         }
-        if(root1 == null || root2 == null){ //if any of them are null return false;
+        if(p == null || q == null){ //if any of them are null return false;
             return false;
         }
 
-        if(root1.val == root2.val){ // enter the subtress only if the root val of both tree are the same
-            return check(root1.left, root2.right) && check(root1.right,root2.left); // running the recursion call (first: normal left and right) (second: like a  
-        }                                                                           //mirror to the tree right subtree then left subtree eg: mirror changes the 
+        if(p.val == q.val){ // enter the subtress only if the root val of both tree are the same
+            return check(p.left, q.right) && check(p.right,q.left); // running the recursion call (first: normal p.left and q.right) (second: like a  
+        }                                                                           //mirror to the tree p.right subtree then q.left subtree eg: mirror changes the 
                                                                                     //prespective)
               //if above both conditions were satisfied then it would have returned true else it will  return    
              //false      
