@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jeeteshwar/LeetCode/tree/master/0002-add-two-numbers) |
+| [0835-linked-list-components](https://github.com/Jeeteshwar/LeetCode/tree/master/0835-linked-list-components) |
 | [0908-middle-of-the-linked-list](https://github.com/Jeeteshwar/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Jeeteshwar/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Jeeteshwar/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -25,6 +26,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0349-intersection-of-two-arrays](https://github.com/Jeeteshwar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0835-linked-list-components](https://github.com/Jeeteshwar/LeetCode/tree/master/0835-linked-list-components) |
 | [1293-three-consecutive-odds](https://github.com/Jeeteshwar/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Jeeteshwar/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Jeeteshwar/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -34,6 +36,7 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Jeeteshwar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0835-linked-list-components](https://github.com/Jeeteshwar/LeetCode/tree/master/0835-linked-list-components) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Jeeteshwar/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Binary Search
 |  |
