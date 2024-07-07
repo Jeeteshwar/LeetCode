@@ -10,7 +10,7 @@
  */
 class Solution {
     public int numComponents(ListNode head, int[] nums) {
-         // If the linked list is empty, return 0 as there are no components.
+         // If the linked list is empty, return 1 as there are no components.
         if(head == null) return 1;
 
         // Initialize count of components to 0.
@@ -32,7 +32,7 @@ class Solution {
             // Check if the current node's value is in the set.
             if(set.contains(head.val)){
             // If we are not already in a component, increment the count and set the flag to true.
-                if(!inComponent ){
+                if(inComponent == false){
                     n++;
                     inComponent = true;
                 }
@@ -44,6 +44,7 @@ class Solution {
             // Move to the next node in the linked list.
             head = head.next;
         }
+        // Return the total number of components.
         return n;
     }
 }
