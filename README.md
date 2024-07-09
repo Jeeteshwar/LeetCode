@@ -65,6 +65,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jeeteshwar/LeetCode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Jeeteshwar/LeetCode/tree/master/0069-sqrtx) |
+| [0342-power-of-four](https://github.com/Jeeteshwar/LeetCode/tree/master/0342-power-of-four) |
 | [1642-water-bottles](https://github.com/Jeeteshwar/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Jeeteshwar/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Jeeteshwar/LeetCode/tree/master/2645-pass-the-pillow) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jeeteshwar/LeetCode/tree/master/0002-add-two-numbers) |
+| [0342-power-of-four](https://github.com/Jeeteshwar/LeetCode/tree/master/0342-power-of-four) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Jeeteshwar/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Interactive
 |  |
@@ -128,6 +130,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Jeeteshwar/LeetCode/tree/master/0342-power-of-four) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Jeeteshwar/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Divide and Conquer
 |  |
