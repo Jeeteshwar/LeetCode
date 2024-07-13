@@ -30,9 +30,9 @@ class Solution {
         
        
 
-        // Recur for the left subtree to handle cases where right child is missing
+        // Recur for the left subtree to handle cases where right child is missing (first becuse when we do the rightsub the result overwrite the old left sub tree values)
         preorder(root.left, result, level + 1);
-        
+
          // Recur for the right subtree
         preorder(root.right, result, level + 1);
     }
