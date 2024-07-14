@@ -101,6 +101,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Jeeteshwar/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Jeeteshwar/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Jeeteshwar/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Jeeteshwar/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -123,6 +125,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Jeeteshwar/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Jeeteshwar/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -137,6 +140,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Jeeteshwar/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Jeeteshwar/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Simulation
 |  |
 | ------- |
