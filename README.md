@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Jeeteshwar/LeetCode/tree/master/0069-sqrtx) |
+| [0222-count-complete-tree-nodes](https://github.com/Jeeteshwar/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/Jeeteshwar/LeetCode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Jeeteshwar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -97,6 +98,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Jeeteshwar/LeetCode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Jeeteshwar/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Jeeteshwar/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0617-merge-two-binary-trees](https://github.com/Jeeteshwar/LeetCode/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
@@ -129,6 +131,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Jeeteshwar/LeetCode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Jeeteshwar/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Jeeteshwar/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0617-merge-two-binary-trees](https://github.com/Jeeteshwar/LeetCode/tree/master/0617-merge-two-binary-trees) |
 ## Simulation
 |  |
@@ -142,6 +145,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Jeeteshwar/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0342-power-of-four](https://github.com/Jeeteshwar/LeetCode/tree/master/0342-power-of-four) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Jeeteshwar/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Divide and Conquer
