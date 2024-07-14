@@ -16,6 +16,7 @@
 class Solution {
     int ans = Integer.MAX_VALUE; // to keep the ans
     int count = 1; // initially at 1
+    boolean found = false; // initially false
 
     public int kthSmallest(TreeNode root, int k) {
        if(root == null) return 0; //if tree is null
@@ -27,6 +28,7 @@ class Solution {
 
        if(count == k ){ // if the current count matches the kth value
         ans = root.val; //assign the current node value into the ans variable
+        found = true; //to flag that kth variable is found 
        }
        count++; // increment the count of count variable after each visit
 
