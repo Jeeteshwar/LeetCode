@@ -16,10 +16,14 @@
 class Solution {
     public TreeNode invertTree(TreeNode root) {
         if(root == null) return null;
+
+        //Swap the Root - [root.left] and [root.right]
+
         TreeNode temp = root.left;
         root.left = root.right;
         root.right = temp;
 
+        // recursion call
         invertTree(root.left);
         invertTree(root.right);
 
