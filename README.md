@@ -35,6 +35,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Jeeteshwar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0835-linked-list-components](https://github.com/Jeeteshwar/LeetCode/tree/master/0835-linked-list-components) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Jeeteshwar/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/Jeeteshwar/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Jeeteshwar/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/Jeeteshwar/LeetCode/tree/master/1720-crawler-log-folder) |
@@ -52,6 +53,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/Jeeteshwar/LeetCode/tree/master/0726-number-of-atoms) |
 | [0835-linked-list-components](https://github.com/Jeeteshwar/LeetCode/tree/master/0835-linked-list-components) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Jeeteshwar/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Jeeteshwar/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Binary Search
 |  |
@@ -112,6 +114,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Jeeteshwar/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Jeeteshwar/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Jeeteshwar/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
@@ -127,6 +130,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jeeteshwar/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Jeeteshwar/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Jeeteshwar/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Jeeteshwar/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
@@ -158,6 +162,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Jeeteshwar/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Jeeteshwar/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Jeeteshwar/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Simulation
