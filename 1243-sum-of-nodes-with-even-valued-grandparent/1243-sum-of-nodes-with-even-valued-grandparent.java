@@ -1,42 +1,32 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
 class Solution {
-    int sum = 0; // initialize the variable outside the methods to use in either global or local
+    int sum = 0; // Initialize sum to store the sum of values of nodes with even-valued grandparents
+    
     public int sumEvenGrandparent(TreeNode root) {
-        dfs(root); // calling the heloer function
-        return sum; // return the sum of the even grandparent nodes
+        dfs(root); // Start the depth-first search (DFS) from the root
+        return sum; // Return the final sum
     }
+    
+    // Helper method to perform DFS on the tree
     public void dfs(TreeNode root){
-        if(root == null) return;
-
-        if(root.val % 2 == 0){ // main even check of grandparent nodes
-            if(root.left != null){ // checking if left sub tree is not null 
-
-                if(root.left.left != null) sum += root.left.left.val; // recursively visiting and adding the even values (root.left.left)
-                if(root.left.right != null) sum += root.left.right.val; // recursively visiting and adding the even values (root.left.right)
+        if(root == null) return; // Base case: if the current node is null, return
+        
+        // Check if the current node's value is even
+        if(root.val % 2 == 0){ 
+            // If the left child exists, check its children
+            if(root.left != null){ 
+                if(root.left.left != null) sum += root.left.left.val; // Add the left-left grandchild's value to sum if it exists
+                if(root.left.right != null) sum += root.left.right.val; // Add the left-right grandchild's value to sum if it exists
+            }
+        
+            // If the right child exists, check its children
+            if(root.right != null){ 
+                if(root.right.left != null) sum += root.right.left.val; // Add the right-left grandchild's value to sum if it exists
+                if(root.right.right != null) sum += root.right.right.val; // Add the right-right grandchild's value to sum if it exists
+            }
         }
         
-        if(root.right != null){ // checking if right sub tree is not null 
-            if(root.right.left != null) sum += root.right.left.val; // recursively visiting and adding the even values (root.right.left)
-            if(root.right.right != null) sum += root.right.right.val; // recursively visiting and adding the even values (root.right.right)
-        }
-    }
-
-        dfs(root.left); //recursively call the left sub tree
-        dfs(root.right); //recursively call the right sub tree
-
+        // Recursively call DFS on the left and right children
+        dfs(root.left); 
+        dfs(root.right);
     }
 }
