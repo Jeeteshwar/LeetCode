@@ -11,8 +11,8 @@ class Solution {
             if (c == 'b') {
                 count++;
             } 
-            // If the character is 'a' and there are 'b's encountered before it
-            if (c == 'a' && count != 0) {
+            // If the character is 'a' and there are 'b's encountered before it 
+            else if (c == 'a' && count != 0) {
                 // Increment the result since this 'a' is out of order
                 res++;
                 // Decrement the count, as we're effectively "removing" a 'b' by considering it for deletion
