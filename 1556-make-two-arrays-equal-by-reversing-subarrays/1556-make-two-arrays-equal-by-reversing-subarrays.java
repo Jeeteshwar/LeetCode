@@ -3,13 +3,7 @@ class Solution {
         Arrays.sort(target);
         Arrays.sort(arr);
 
-        int n = arr.length;
+        return Arrays.equals(target,arr);
 
-        for(int i = 0; i < n ; i++){
-                if(arr[i] != target[i]){
-                    return false;
-                }
-        }
-        return true;
     }
 }
