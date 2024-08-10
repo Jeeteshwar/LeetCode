@@ -51,6 +51,7 @@
 | [0921-spiral-matrix-iii](https://github.com/Jeeteshwar/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0941-sort-array-by-parity](https://github.com/Jeeteshwar/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/0948-sort-an-array) |
+| [0999-regions-cut-by-slashes](https://github.com/Jeeteshwar/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1196-filling-bookcase-shelves](https://github.com/Jeeteshwar/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Jeeteshwar/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/Jeeteshwar/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -84,6 +85,7 @@
 | [0726-number-of-atoms](https://github.com/Jeeteshwar/LeetCode/tree/master/0726-number-of-atoms) |
 | [0835-linked-list-components](https://github.com/Jeeteshwar/LeetCode/tree/master/0835-linked-list-components) |
 | [0870-magic-squares-in-grid](https://github.com/Jeeteshwar/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/Jeeteshwar/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Jeeteshwar/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Jeeteshwar/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Jeeteshwar/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -191,6 +193,7 @@
 | [0617-merge-two-binary-trees](https://github.com/Jeeteshwar/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
+| [0999-regions-cut-by-slashes](https://github.com/Jeeteshwar/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Jeeteshwar/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Jeeteshwar/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Jeeteshwar/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -208,6 +211,7 @@
 | [0226-invert-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Jeeteshwar/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0623-add-one-row-to-tree) |
+| [0999-regions-cut-by-slashes](https://github.com/Jeeteshwar/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Jeeteshwar/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Jeeteshwar/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -300,6 +304,7 @@
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/Jeeteshwar/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Jeeteshwar/LeetCode/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/Jeeteshwar/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Jeeteshwar/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Jeeteshwar/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Jeeteshwar/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -369,4 +374,8 @@
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/Jeeteshwar/LeetCode/tree/master/1086-divisor-game) |
+## Union Find
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/Jeeteshwar/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 <!---LeetCode Topics End-->
