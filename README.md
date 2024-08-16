@@ -47,6 +47,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Jeeteshwar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0624-maximum-distance-in-arrays](https://github.com/Jeeteshwar/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0654-maximum-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Jeeteshwar/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0835-linked-list-components](https://github.com/Jeeteshwar/LeetCode/tree/master/0835-linked-list-components) |
@@ -130,6 +131,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/Jeeteshwar/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Jeeteshwar/LeetCode/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Jeeteshwar/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Jeeteshwar/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
