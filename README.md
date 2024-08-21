@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Jeeteshwar/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0664-strange-printer](https://github.com/Jeeteshwar/LeetCode/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/Jeeteshwar/LeetCode/tree/master/0726-number-of-atoms) |
 | [0742-to-lower-case](https://github.com/Jeeteshwar/LeetCode/tree/master/0742-to-lower-case) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -365,6 +366,7 @@
 |  |
 | ------- |
 | [0650-2-keys-keyboard](https://github.com/Jeeteshwar/LeetCode/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/Jeeteshwar/LeetCode/tree/master/0664-strange-printer) |
 | [1013-fibonacci-number](https://github.com/Jeeteshwar/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Jeeteshwar/LeetCode/tree/master/1086-divisor-game) |
 | [1196-filling-bookcase-shelves](https://github.com/Jeeteshwar/LeetCode/tree/master/1196-filling-bookcase-shelves) |
