@@ -192,6 +192,7 @@
 | [0623-add-one-row-to-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0654-maximum-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Jeeteshwar/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Jeeteshwar/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Jeeteshwar/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -215,6 +216,7 @@
 | [0617-merge-two-binary-trees](https://github.com/Jeeteshwar/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Jeeteshwar/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0999-regions-cut-by-slashes](https://github.com/Jeeteshwar/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Jeeteshwar/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Jeeteshwar/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
@@ -308,6 +310,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Jeeteshwar/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0726-number-of-atoms](https://github.com/Jeeteshwar/LeetCode/tree/master/0726-number-of-atoms) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Jeeteshwar/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Jeeteshwar/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Jeeteshwar/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
