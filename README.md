@@ -74,6 +74,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/Jeeteshwar/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/Jeeteshwar/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Jeeteshwar/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2035-count-sub-islands](https://github.com/Jeeteshwar/LeetCode/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Jeeteshwar/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -222,6 +223,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/Jeeteshwar/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Jeeteshwar/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Jeeteshwar/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2035-count-sub-islands](https://github.com/Jeeteshwar/LeetCode/tree/master/2035-count-sub-islands) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Jeeteshwar/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
@@ -238,6 +240,7 @@
 | [0623-add-one-row-to-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/Jeeteshwar/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Jeeteshwar/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [2035-count-sub-islands](https://github.com/Jeeteshwar/LeetCode/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Jeeteshwar/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -339,6 +342,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/Jeeteshwar/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Jeeteshwar/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Jeeteshwar/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2035-count-sub-islands](https://github.com/Jeeteshwar/LeetCode/tree/master/2035-count-sub-islands) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Jeeteshwar/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Graph
 |  |
@@ -419,6 +423,7 @@
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/Jeeteshwar/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+| [2035-count-sub-islands](https://github.com/Jeeteshwar/LeetCode/tree/master/2035-count-sub-islands) |
 ## Design
 |  |
 | ------- |
