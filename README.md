@@ -85,6 +85,7 @@
 | [2502-sort-the-people](https://github.com/Jeeteshwar/LeetCode/tree/master/2502-sort-the-people) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Jeeteshwar/LeetCode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2727-number-of-senior-citizens](https://github.com/Jeeteshwar/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [2836-neither-minimum-nor-maximum](https://github.com/Jeeteshwar/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2846-robot-collisions](https://github.com/Jeeteshwar/LeetCode/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Jeeteshwar/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -136,6 +137,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Jeeteshwar/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2502-sort-the-people](https://github.com/Jeeteshwar/LeetCode/tree/master/2502-sort-the-people) |
+| [2836-neither-minimum-nor-maximum](https://github.com/Jeeteshwar/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2846-robot-collisions](https://github.com/Jeeteshwar/LeetCode/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
