@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Jeeteshwar/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0415-add-strings](https://github.com/Jeeteshwar/LeetCode/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0564-find-the-closest-palindrome](https://github.com/Jeeteshwar/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Jeeteshwar/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -160,6 +161,7 @@
 | [0069-sqrtx](https://github.com/Jeeteshwar/LeetCode/tree/master/0069-sqrtx) |
 | [0273-integer-to-english-words](https://github.com/Jeeteshwar/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0342-power-of-four](https://github.com/Jeeteshwar/LeetCode/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/Jeeteshwar/LeetCode/tree/master/0415-add-strings) |
 | [0564-find-the-closest-palindrome](https://github.com/Jeeteshwar/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Jeeteshwar/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/Jeeteshwar/LeetCode/tree/master/0650-2-keys-keyboard) |
@@ -283,6 +285,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Jeeteshwar/LeetCode/tree/master/0415-add-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Jeeteshwar/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0921-spiral-matrix-iii](https://github.com/Jeeteshwar/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/Jeeteshwar/LeetCode/tree/master/1642-water-bottles) |
