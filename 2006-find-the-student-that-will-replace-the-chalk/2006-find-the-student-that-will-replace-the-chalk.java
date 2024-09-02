@@ -1,6 +1,6 @@
 class Solution {
     public int chalkReplacer(int[] chalk, int k) {
-        int n = chalk.length;  // Get the number of students (length of the chalk array)
+     int n = chalk.length;  // Get the number of students (length of the chalk array)
         
         // This loop runs indefinitely until a solution is found
         while(true) {
