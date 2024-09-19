@@ -30,6 +30,7 @@
 ## String
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Jeeteshwar/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0415-add-strings](https://github.com/Jeeteshwar/LeetCode/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/Jeeteshwar/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -196,6 +197,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jeeteshwar/LeetCode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Jeeteshwar/LeetCode/tree/master/0069-sqrtx) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Jeeteshwar/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0342-power-of-four](https://github.com/Jeeteshwar/LeetCode/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/Jeeteshwar/LeetCode/tree/master/0415-add-strings) |
@@ -218,6 +220,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jeeteshwar/LeetCode/tree/master/0002-add-two-numbers) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Jeeteshwar/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0342-power-of-four](https://github.com/Jeeteshwar/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Jeeteshwar/LeetCode/tree/master/1013-fibonacci-number) |
@@ -461,6 +464,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0650-2-keys-keyboard](https://github.com/Jeeteshwar/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Jeeteshwar/LeetCode/tree/master/0664-strange-printer) |
 | [1013-fibonacci-number](https://github.com/Jeeteshwar/LeetCode/tree/master/1013-fibonacci-number) |
@@ -486,6 +490,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/Jeeteshwar/LeetCode/tree/master/1013-fibonacci-number) |
 ## Brainteaser
 |  |
