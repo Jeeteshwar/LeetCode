@@ -47,6 +47,7 @@
 | [0664-strange-printer](https://github.com/Jeeteshwar/LeetCode/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/Jeeteshwar/LeetCode/tree/master/0726-number-of-atoms) |
 | [0742-to-lower-case](https://github.com/Jeeteshwar/LeetCode/tree/master/0742-to-lower-case) |
+| [0886-score-of-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/0886-score-of-parentheses) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Jeeteshwar/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Jeeteshwar/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -428,6 +429,7 @@
 | [0654-maximum-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0726-number-of-atoms](https://github.com/Jeeteshwar/LeetCode/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Jeeteshwar/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0886-score-of-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Jeeteshwar/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Jeeteshwar/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
