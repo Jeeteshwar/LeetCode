@@ -7,8 +7,8 @@ class Solution {
             if(s.charAt(i) == '('){
                 depth++;
             }
-            else{
-                depth--;     
+            else if(s.charAt(i) == ')'){
+                depth--;
             if (s.charAt(i - 1) == '(') {
                     score += (int) Math.pow(2,depth);  // Add score based on current depth
             }
