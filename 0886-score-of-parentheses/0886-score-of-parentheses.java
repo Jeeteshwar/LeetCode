@@ -10,7 +10,7 @@ class Solution {
             else{
                 depth--;     
             if (s.charAt(i - 1) == '(') {
-                    score += 1 << depth;  // Add score based on current depth
+                    score += (int) Math.pow(2,depth);  // Add score based on current depth
             }
             }
         }
