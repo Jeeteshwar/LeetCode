@@ -86,6 +86,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/Jeeteshwar/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/Jeeteshwar/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Jeeteshwar/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0654-maximum-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Jeeteshwar/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Jeeteshwar/LeetCode/tree/master/0729-my-calendar-i) |
@@ -159,6 +160,7 @@
 | [0432-all-oone-data-structure](https://github.com/Jeeteshwar/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Jeeteshwar/LeetCode/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Jeeteshwar/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/Jeeteshwar/LeetCode/tree/master/0726-number-of-atoms) |
 | [0835-linked-list-components](https://github.com/Jeeteshwar/LeetCode/tree/master/0835-linked-list-components) |
 | [0870-magic-squares-in-grid](https://github.com/Jeeteshwar/LeetCode/tree/master/0870-magic-squares-in-grid) |
@@ -209,6 +211,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Jeeteshwar/LeetCode/tree/master/0414-third-maximum-number) |
 | [0539-minimum-time-difference](https://github.com/Jeeteshwar/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Jeeteshwar/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Jeeteshwar/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/Jeeteshwar/LeetCode/tree/master/0726-number-of-atoms) |
 | [0941-sort-array-by-parity](https://github.com/Jeeteshwar/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -229,6 +232,7 @@
 |  |
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/Jeeteshwar/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Jeeteshwar/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0890-lemonade-change](https://github.com/Jeeteshwar/LeetCode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Jeeteshwar/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Jeeteshwar/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -496,6 +500,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Jeeteshwar/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Jeeteshwar/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/Jeeteshwar/LeetCode/tree/master/1325-path-with-maximum-probability) |
@@ -523,6 +528,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Jeeteshwar/LeetCode/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Jeeteshwar/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Jeeteshwar/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Dynamic Programming
 |  |
