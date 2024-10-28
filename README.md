@@ -153,6 +153,7 @@
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Jeeteshwar/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/Jeeteshwar/LeetCode/tree/master/2502-sort-the-people) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Jeeteshwar/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Jeeteshwar/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Jeeteshwar/LeetCode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
@@ -198,6 +199,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Jeeteshwar/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2427-first-letter-to-appear-twice](https://github.com/Jeeteshwar/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2502-sort-the-people](https://github.com/Jeeteshwar/LeetCode/tree/master/2502-sort-the-people) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Jeeteshwar/LeetCode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -223,6 +225,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Jeeteshwar/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Jeeteshwar/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -249,6 +252,7 @@
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Jeeteshwar/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Jeeteshwar/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/Jeeteshwar/LeetCode/tree/master/2502-sort-the-people) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Jeeteshwar/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2846-robot-collisions](https://github.com/Jeeteshwar/LeetCode/tree/master/2846-robot-collisions) |
@@ -597,6 +601,7 @@
 | [1511-count-number-of-teams](https://github.com/Jeeteshwar/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Jeeteshwar/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Jeeteshwar/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Shortest Path
 |  |
 | ------- |
