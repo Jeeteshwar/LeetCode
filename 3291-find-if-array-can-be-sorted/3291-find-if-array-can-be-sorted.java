@@ -14,11 +14,11 @@ class Solution {
                 }
             }
         }
-        for(int k = 0 ; k < n-1 ; k++){
-            if(arr[k] > arr[k + 1]){
-                return false;
-            }
-        }
+        //for(int k = 0 ; k < n-1 ; k++){
+           // if(arr[k] > arr[k + 1]){
+              //  return false;
+           // }
+      //  }
         return true;
     }
 }
