@@ -163,6 +163,7 @@
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Jeeteshwar/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Jeeteshwar/LeetCode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
+| [2716-prime-subtraction-operation](https://github.com/Jeeteshwar/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/Jeeteshwar/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Jeeteshwar/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Jeeteshwar/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -236,6 +237,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Jeeteshwar/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/Jeeteshwar/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Sorting
 |  |
 | ------- |
@@ -285,6 +287,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Jeeteshwar/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Jeeteshwar/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Jeeteshwar/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/Jeeteshwar/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/Jeeteshwar/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
@@ -313,6 +316,7 @@
 | [2155-find-missing-observations](https://github.com/Jeeteshwar/LeetCode/tree/master/2155-find-missing-observations) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2645-pass-the-pillow](https://github.com/Jeeteshwar/LeetCode/tree/master/2645-pass-the-pillow) |
+| [2716-prime-subtraction-operation](https://github.com/Jeeteshwar/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Recursion
 |  |
 | ------- |
@@ -691,6 +695,7 @@
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2716-prime-subtraction-operation](https://github.com/Jeeteshwar/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Rolling Hash
 |  |
 | ------- |
