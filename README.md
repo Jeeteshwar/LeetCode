@@ -148,6 +148,7 @@
 | [2155-find-missing-observations](https://github.com/Jeeteshwar/LeetCode/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Jeeteshwar/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/Jeeteshwar/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Jeeteshwar/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Jeeteshwar/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -235,6 +236,7 @@
 | [1646-kth-missing-positive-number](https://github.com/Jeeteshwar/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Jeeteshwar/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Jeeteshwar/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/Jeeteshwar/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2716-prime-subtraction-operation](https://github.com/Jeeteshwar/LeetCode/tree/master/2716-prime-subtraction-operation) |
@@ -259,6 +261,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Jeeteshwar/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Jeeteshwar/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Jeeteshwar/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/Jeeteshwar/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Jeeteshwar/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Jeeteshwar/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
