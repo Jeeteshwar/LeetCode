@@ -94,6 +94,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jeeteshwar/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Jeeteshwar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Jeeteshwar/LeetCode/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/Jeeteshwar/LeetCode/tree/master/0066-plus-one) |
@@ -263,6 +264,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Jeeteshwar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Jeeteshwar/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Jeeteshwar/LeetCode/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/Jeeteshwar/LeetCode/tree/master/0222-count-complete-tree-nodes) |
@@ -554,6 +556,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Jeeteshwar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jeeteshwar/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Jeeteshwar/LeetCode/tree/master/0169-majority-element) |
