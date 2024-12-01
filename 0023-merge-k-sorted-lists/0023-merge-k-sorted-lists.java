@@ -33,15 +33,17 @@ class Solution {
 
 
     ListNode partitionAndMerge(int start, int end, ListNode[] lists){
-        if(start > end) return null;
-            
-        if (start==end) return lists[start];
-            
+        if(start > end){
+            return null;
+        }
+
+        if (start==end){
+            return lists[start];
+        }
         int mid = (start + end) / 2;
 
         ListNode L1=partitionAndMerge(start, mid , lists);
         ListNode L2=partitionAndMerge(mid+1, end , lists);
-
 
         return MergeTwoSortedLists(L1,L2);
 
@@ -50,10 +52,10 @@ class Solution {
 
     public ListNode mergeKLists(ListNode[] lists) {
         int k = lists.length;
-        if ( k == 0 ) return null;
-            
+        if ( k == 0 ){
+            return null;
 
-        
+        }
 
         return partitionAndMerge(0,k-1,lists);
 
