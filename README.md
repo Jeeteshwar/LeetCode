@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jeeteshwar/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0058-length-of-last-word](https://github.com/Jeeteshwar/LeetCode/tree/master/0058-length-of-last-word) |
 | [0214-shortest-palindrome](https://github.com/Jeeteshwar/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Jeeteshwar/LeetCode/tree/master/0273-integer-to-english-words) |
