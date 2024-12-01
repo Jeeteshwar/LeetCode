@@ -7,6 +7,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jeeteshwar/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jeeteshwar/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Jeeteshwar/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Jeeteshwar/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Jeeteshwar/LeetCode/tree/master/0432-all-oone-data-structure) |
@@ -389,6 +390,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jeeteshwar/LeetCode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Jeeteshwar/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Jeeteshwar/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0342-power-of-four](https://github.com/Jeeteshwar/LeetCode/tree/master/0342-power-of-four) |
