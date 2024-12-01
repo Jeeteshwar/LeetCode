@@ -30,6 +30,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jeeteshwar/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jeeteshwar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Jeeteshwar/LeetCode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Jeeteshwar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0142-linked-list-cycle-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Jeeteshwar/LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Jeeteshwar/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -110,6 +111,7 @@
 | [0027-remove-element](https://github.com/Jeeteshwar/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Jeeteshwar/LeetCode/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Jeeteshwar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Jeeteshwar/LeetCode/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jeeteshwar/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -598,6 +600,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Jeeteshwar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jeeteshwar/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0726-number-of-atoms](https://github.com/Jeeteshwar/LeetCode/tree/master/0726-number-of-atoms) |
@@ -632,6 +635,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Jeeteshwar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0654-maximum-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [1002-maximum-width-ramp](https://github.com/Jeeteshwar/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Jeeteshwar/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -731,6 +735,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jeeteshwar/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Jeeteshwar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0650-2-keys-keyboard](https://github.com/Jeeteshwar/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Jeeteshwar/LeetCode/tree/master/0664-strange-printer) |
