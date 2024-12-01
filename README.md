@@ -28,6 +28,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Jeeteshwar/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Jeeteshwar/LeetCode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jeeteshwar/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Jeeteshwar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Jeeteshwar/LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Jeeteshwar/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -104,6 +105,7 @@
 | [0001-two-sum](https://github.com/Jeeteshwar/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jeeteshwar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Jeeteshwar/LeetCode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Jeeteshwar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Jeeteshwar/LeetCode/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/Jeeteshwar/LeetCode/tree/master/0066-plus-one) |
