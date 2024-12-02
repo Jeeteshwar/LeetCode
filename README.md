@@ -396,6 +396,7 @@
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Jeeteshwar/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/Jeeteshwar/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/Jeeteshwar/LeetCode/tree/master/1642-water-bottles) |
+| [1806-count-of-matches-in-tournament](https://github.com/Jeeteshwar/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Jeeteshwar/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2155-find-missing-observations](https://github.com/Jeeteshwar/LeetCode/tree/master/2155-find-missing-observations) |
@@ -553,6 +554,7 @@
 | [1642-water-bottles](https://github.com/Jeeteshwar/LeetCode/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Jeeteshwar/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1803-average-waiting-time](https://github.com/Jeeteshwar/LeetCode/tree/master/1803-average-waiting-time) |
+| [1806-count-of-matches-in-tournament](https://github.com/Jeeteshwar/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Jeeteshwar/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Jeeteshwar/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
