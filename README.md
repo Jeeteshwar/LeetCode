@@ -50,6 +50,7 @@
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Jeeteshwar/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/Jeeteshwar/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/Jeeteshwar/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Jeeteshwar/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Jeeteshwar/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Jeeteshwar/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -102,6 +103,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/Jeeteshwar/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Jeeteshwar/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/Jeeteshwar/LeetCode/tree/master/2365-percentage-of-letter-in-string) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/Jeeteshwar/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Jeeteshwar/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Jeeteshwar/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/Jeeteshwar/LeetCode/tree/master/2502-sort-the-people) |
