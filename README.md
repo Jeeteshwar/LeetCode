@@ -250,6 +250,7 @@
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Jeeteshwar/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3427-special-array-ii) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Jeeteshwar/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -612,6 +613,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Jeeteshwar/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Jeeteshwar/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Jeeteshwar/LeetCode/tree/master/2846-robot-collisions) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -767,6 +769,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Jeeteshwar/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Jeeteshwar/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/Jeeteshwar/LeetCode/tree/master/2803-modify-graph-edge-weights) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Merge Sort
 |  |
 | ------- |
