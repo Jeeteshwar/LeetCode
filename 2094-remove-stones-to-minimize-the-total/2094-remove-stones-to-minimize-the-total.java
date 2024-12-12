@@ -12,7 +12,7 @@ class Solution {
 
         }
         int sum = 0;
-        
+    
         for(int num : pq){
             sum+= num;
         }
