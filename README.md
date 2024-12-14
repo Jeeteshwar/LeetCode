@@ -430,6 +430,7 @@
 | [0070-climbing-stairs](https://github.com/Jeeteshwar/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Jeeteshwar/LeetCode/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/Jeeteshwar/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Jeeteshwar/LeetCode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Jeeteshwar/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Jeeteshwar/LeetCode/tree/master/0326-power-of-three) |
@@ -606,6 +607,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Jeeteshwar/LeetCode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Jeeteshwar/LeetCode/tree/master/0415-add-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Jeeteshwar/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/Jeeteshwar/LeetCode/tree/master/0906-walking-robot-simulation) |
@@ -917,6 +919,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Jeeteshwar/LeetCode/tree/master/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2716-prime-subtraction-operation](https://github.com/Jeeteshwar/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Rolling Hash
