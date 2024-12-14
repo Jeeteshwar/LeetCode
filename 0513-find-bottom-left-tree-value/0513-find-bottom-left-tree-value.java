@@ -15,22 +15,25 @@
  */
 class Solution {
     private int maxDepth = -1;
-    private int leftbottomValue = 0;
-    public int helper(TreeNode root, int level){
-        if(root == null) return 0;
+    private int bottomLeftValue = 0;
 
-        if(level > maxDepth){
+    public void helper(TreeNode root, int level) {
+        if (root == null) return;
+
+        // Update the bottom-left value if this is the deepest level encountered so far
+        if (level > maxDepth) {
             maxDepth = level;
-            leftbottomValue =  root.val;
+            bottomLeftValue = root.val;
         }
-        helper(root.left , level + 1);
-        helper(root.right , level + 1);
-        return leftbottomValue;
-        
+
+        // Traverse left subtree first
+        helper(root.left, level + 1);
+        // Traverse right subtree
+        helper(root.right, level + 1);
     }
+
     public int findBottomLeftValue(TreeNode root) {
-
-        return helper(root,0);
-
+        helper(root, 0);
+        return bottomLeftValue;
     }
 }
