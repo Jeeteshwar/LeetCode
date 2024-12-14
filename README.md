@@ -431,6 +431,7 @@
 | [0189-rotate-array](https://github.com/Jeeteshwar/LeetCode/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/Jeeteshwar/LeetCode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/Jeeteshwar/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Jeeteshwar/LeetCode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Jeeteshwar/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Jeeteshwar/LeetCode/tree/master/0326-power-of-three) |
