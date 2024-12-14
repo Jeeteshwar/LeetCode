@@ -119,6 +119,7 @@
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3451-string-compression-iii](https://github.com/Jeeteshwar/LeetCode/tree/master/3451-string-compression-iii) |
 ## Array
 |  |
@@ -317,6 +318,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Jeeteshwar/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Jeeteshwar/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Jeeteshwar/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Jeeteshwar/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
