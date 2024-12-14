@@ -1,20 +1,23 @@
 class Solution {
     public int minimumOperations(int[] nums) {
-        PriorityQueue<Integer> pq = new PriorityQueue<Integer>();
-        for(int i :nums){
-            pq.offer(i);
+        PriorityQueue<Integer> pq = new PriorityQueue <>();
+        int n = nums.length;
+        int count = 0;
+
+        for(int num : nums){
+            pq.offer(num);
         }
-        int temp =-1;
-        int res = 0;
-        for(int i =0;i<nums.length;i++){
-            int polled = pq.poll();
-            if(polled==0 || polled==temp){
-                
+        int temp = -1;
+        for(int i = 0 ; i < n ; i++){
+            int x  = pq.poll();
+
+            if(x == 0 || x == temp)
                 continue;
-            }
-            temp=polled;
-            res++;
+        
+        temp = x;
+        count++;
         }
-        return res;
+        return count;
+
     }
 }
