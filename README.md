@@ -10,6 +10,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Jeeteshwar/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Jeeteshwar/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Jeeteshwar/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0141-linked-list-cycle](https://github.com/Jeeteshwar/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Jeeteshwar/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Jeeteshwar/LeetCode/tree/master/0432-all-oone-data-structure) |
@@ -31,6 +32,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jeeteshwar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Jeeteshwar/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Jeeteshwar/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0141-linked-list-cycle](https://github.com/Jeeteshwar/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Jeeteshwar/LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Jeeteshwar/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -276,6 +278,7 @@
 | [0001-two-sum](https://github.com/Jeeteshwar/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Jeeteshwar/LeetCode/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jeeteshwar/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0141-linked-list-cycle](https://github.com/Jeeteshwar/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Jeeteshwar/LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0219-contains-duplicate-ii) |
