@@ -233,6 +233,7 @@
 | [2411-spiral-matrix-iv](https://github.com/Jeeteshwar/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Jeeteshwar/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Jeeteshwar/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2486-most-frequent-even-element](https://github.com/Jeeteshwar/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Jeeteshwar/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Jeeteshwar/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/Jeeteshwar/LeetCode/tree/master/2502-sort-the-people) |
@@ -316,6 +317,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Jeeteshwar/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2427-first-letter-to-appear-twice](https://github.com/Jeeteshwar/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Jeeteshwar/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2486-most-frequent-even-element](https://github.com/Jeeteshwar/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/Jeeteshwar/LeetCode/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Jeeteshwar/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -733,6 +735,7 @@
 | [2300-construct-string-with-repeat-limit](https://github.com/Jeeteshwar/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Jeeteshwar/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2427-first-letter-to-appear-twice](https://github.com/Jeeteshwar/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
+| [2486-most-frequent-even-element](https://github.com/Jeeteshwar/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Jeeteshwar/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
