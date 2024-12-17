@@ -11,12 +11,7 @@ class Solution {
         }
 
         // PriorityQueue to sort even numbers by frequency (descending) and value (ascending)
-        PriorityQueue<Integer> pq = new PriorityQueue<>((a, b) -> {
-            if (map.get(a).equals(map.get(b))) {
-                return a - b; // If frequencies are equal, sort by smallest value
-            }
-            return map.get(b) - map.get(a); // Sort by frequency (descending)
-        });
+        PriorityQueue<Integer> pq = new PriorityQueue<>((a, b) -> map.get(b) - map.get(a));
 
         // Add only even numbers to the PriorityQueue
         for (int num : map.keySet()) {
