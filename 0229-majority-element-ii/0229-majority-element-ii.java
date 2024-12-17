@@ -2,27 +2,20 @@ class Solution {
     public List<Integer> majorityElement(int[] nums) {
         int n = nums.length;
         HashMap<Integer , Integer> mp = new HashMap <>();
-
-
-        for(int num : nums){
-            mp.put(num , mp.getOrDefault(num , 0) + 1);
-
-        }
-
         ArrayList<Integer> result = new ArrayList <>();
 
+        for(int num : nums) mp.put(num , mp.getOrDefault(num , 0) + 1);
+            
+        
         boolean found = false;
+               for(int num : mp.keySet()){
 
-            for(HashMap.Entry<Integer , Integer> entry :mp.entrySet()){
-                if(entry.getValue () > n / 3){
-                    result.add(entry.getKey());
+                if(mp.get(num) > n / 3){
+                    result.add(num);
                     found = true;
                 }
             }
-        
-        //if(!found){
-         //   result.add(-1);
-        //}
+     
         return result;
     }
 }
