@@ -254,6 +254,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Jeeteshwar/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Jeeteshwar/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Jeeteshwar/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2714-left-and-right-sum-differences](https://github.com/Jeeteshwar/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2716-prime-subtraction-operation](https://github.com/Jeeteshwar/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/Jeeteshwar/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Jeeteshwar/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -960,6 +961,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Jeeteshwar/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Jeeteshwar/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Jeeteshwar/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2714-left-and-right-sum-differences](https://github.com/Jeeteshwar/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3427-special-array-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3427-special-array-ii) |
 ## Number Theory
 |  |
