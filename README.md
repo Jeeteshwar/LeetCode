@@ -138,6 +138,7 @@
 | [0040-combination-sum-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Jeeteshwar/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Jeeteshwar/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Jeeteshwar/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Jeeteshwar/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Jeeteshwar/LeetCode/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jeeteshwar/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -454,6 +455,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jeeteshwar/LeetCode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Jeeteshwar/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Jeeteshwar/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Jeeteshwar/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Jeeteshwar/LeetCode/tree/master/0070-climbing-stairs) |
@@ -774,6 +776,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Jeeteshwar/LeetCode/tree/master/0048-rotate-image) |
 | [0787-sliding-puzzle](https://github.com/Jeeteshwar/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/Jeeteshwar/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Jeeteshwar/LeetCode/tree/master/0921-spiral-matrix-iii) |
