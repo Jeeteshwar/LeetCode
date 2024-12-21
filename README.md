@@ -58,6 +58,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/Jeeteshwar/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Jeeteshwar/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/Jeeteshwar/LeetCode/tree/master/3195-separate-black-and-white-balls) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Jeeteshwar/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## String
 |  |
 | ------- |
@@ -270,6 +271,7 @@
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3427-special-array-ii) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Jeeteshwar/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Jeeteshwar/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Jeeteshwar/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Jeeteshwar/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -419,6 +421,7 @@
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Jeeteshwar/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Jeeteshwar/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Jeeteshwar/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Greedy
 |  |
 | ------- |
