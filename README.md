@@ -497,6 +497,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2155-find-missing-observations](https://github.com/Jeeteshwar/LeetCode/tree/master/2155-find-missing-observations) |
 | [2556-convert-the-temperature](https://github.com/Jeeteshwar/LeetCode/tree/master/2556-convert-the-temperature) |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/Jeeteshwar/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2645-pass-the-pillow](https://github.com/Jeeteshwar/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2716-prime-subtraction-operation](https://github.com/Jeeteshwar/LeetCode/tree/master/2716-prime-subtraction-operation) |
@@ -1047,4 +1048,8 @@
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/Jeeteshwar/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
+## Geometry
+|  |
+| ------- |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/Jeeteshwar/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
