@@ -55,6 +55,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/Jeeteshwar/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Jeeteshwar/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Jeeteshwar/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2561-number-of-distinct-averages](https://github.com/Jeeteshwar/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Jeeteshwar/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Jeeteshwar/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/Jeeteshwar/LeetCode/tree/master/3195-separate-black-and-white-balls) |
@@ -248,6 +249,7 @@
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Jeeteshwar/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Jeeteshwar/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/Jeeteshwar/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
+| [2561-number-of-distinct-averages](https://github.com/Jeeteshwar/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Jeeteshwar/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -333,6 +335,7 @@
 | [2486-most-frequent-even-element](https://github.com/Jeeteshwar/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/Jeeteshwar/LeetCode/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Jeeteshwar/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2561-number-of-distinct-averages](https://github.com/Jeeteshwar/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Jeeteshwar/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Jeeteshwar/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -415,6 +418,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Jeeteshwar/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/Jeeteshwar/LeetCode/tree/master/2502-sort-the-people) |
 | [2554-minimum-total-distance-traveled](https://github.com/Jeeteshwar/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
+| [2561-number-of-distinct-averages](https://github.com/Jeeteshwar/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Jeeteshwar/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
