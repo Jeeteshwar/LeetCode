@@ -10,12 +10,18 @@ class Solution {
                 secondLargest = largest; // Update second largest.
                 largest = nums[i];       // Update largest.
                 idx = i;                 // Update index of largest.
+                
             } else if (nums[i] > secondLargest) {
                 secondLargest = nums[i]; // Update second largest if larger than current second largest.
             }
+            
         }
-
+       
         // Check if the largest number is at least twice as large as the second largest.
-        return largest >= 2 * secondLargest ? idx : -1;
+        if(largest >= 2 * secondLargest){
+            return idx;
+        }
+    
+         return -1;
     }
 }
