@@ -19,6 +19,9 @@ class Solution {
         }
 
         // Return the result as an array
-        return new int[] { pairs, leftovers };
+        int res [] = new int [2];
+        res[0] = pairs;
+        res[1] = leftovers;
+        return res;
     }
 }
