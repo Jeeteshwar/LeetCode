@@ -1,19 +1,26 @@
 class Solution {
     public int minimumLength(String s) {
         int n = s.length();
+        int ans = 0;
 
-        int[] freq = new int[26];
-        int deleted = 0;
+        int arr [] = new int [26];
 
-        for(int i = 0; i < n; i++) {
-            freq[s.charAt(i) - 'a'] += 1;
-
-            if(freq[s.charAt(i) -'a'] == 3) {
-                freq[s.charAt(i) - 'a'] -= 2;
-                deleted += 2;
-            }
+        for(int i = 0 ; i < n ; i++){
+            arr[s.charAt(i) - 'a']++;
         }
 
-        return n - deleted;
+        for(int i = 0 ; i < 26 ; i++){
+            if(arr[i] == 0){
+                continue;
+            }
+            if(arr[i] % 2 != 0 ){
+                ans++;
+            }
+            else{
+                ans+=2;
+            }
+            
+        }
+        return ans;
     }
 }
