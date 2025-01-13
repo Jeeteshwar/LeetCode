@@ -308,6 +308,7 @@
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Jeeteshwar/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Jeeteshwar/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Jeeteshwar/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/Jeeteshwar/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -543,6 +544,7 @@
 | [2645-pass-the-pillow](https://github.com/Jeeteshwar/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2716-prime-subtraction-operation](https://github.com/Jeeteshwar/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Jeeteshwar/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/Jeeteshwar/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Jeeteshwar/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Recursion
