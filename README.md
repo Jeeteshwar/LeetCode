@@ -304,6 +304,7 @@
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3427-special-array-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3427-special-array-ii) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Jeeteshwar/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Jeeteshwar/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -384,6 +385,7 @@
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Jeeteshwar/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Jeeteshwar/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Jeeteshwar/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -835,6 +837,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/Jeeteshwar/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Jeeteshwar/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Monotonic Stack
 |  |
