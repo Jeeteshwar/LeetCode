@@ -646,6 +646,7 @@
 | [0623-add-one-row-to-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Jeeteshwar/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0820-find-eventual-safe-states](https://github.com/Jeeteshwar/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Jeeteshwar/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Jeeteshwar/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Jeeteshwar/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -678,6 +679,7 @@
 | [0617-merge-two-binary-trees](https://github.com/Jeeteshwar/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0787-sliding-puzzle](https://github.com/Jeeteshwar/LeetCode/tree/master/0787-sliding-puzzle) |
+| [0820-find-eventual-safe-states](https://github.com/Jeeteshwar/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0999-regions-cut-by-slashes](https://github.com/Jeeteshwar/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Jeeteshwar/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1396-count-servers-that-communicate](https://github.com/Jeeteshwar/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -916,6 +918,7 @@
 ## Graph
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/Jeeteshwar/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Jeeteshwar/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/Jeeteshwar/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Jeeteshwar/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -933,6 +936,7 @@
 ## Topological Sort
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/Jeeteshwar/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Jeeteshwar/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Heap (Priority Queue)
 |  |
