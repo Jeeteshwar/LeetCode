@@ -308,6 +308,7 @@
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Jeeteshwar/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Jeeteshwar/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3194-find-words-containing-character](https://github.com/Jeeteshwar/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Jeeteshwar/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Jeeteshwar/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Jeeteshwar/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -488,6 +489,7 @@
 | [2836-neither-minimum-nor-maximum](https://github.com/Jeeteshwar/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2846-robot-collisions](https://github.com/Jeeteshwar/LeetCode/tree/master/2846-robot-collisions) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Jeeteshwar/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Jeeteshwar/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Jeeteshwar/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Jeeteshwar/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -1077,6 +1079,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/Jeeteshwar/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1396-count-servers-that-communicate](https://github.com/Jeeteshwar/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2035-count-sub-islands](https://github.com/Jeeteshwar/LeetCode/tree/master/2035-count-sub-islands) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Jeeteshwar/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Design
 |  |
 | ------- |
