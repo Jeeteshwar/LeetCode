@@ -46,6 +46,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Jeeteshwar/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0908-middle-of-the-linked-list](https://github.com/Jeeteshwar/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Jeeteshwar/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [1019-squares-of-a-sorted-array](https://github.com/Jeeteshwar/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Jeeteshwar/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Jeeteshwar/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Jeeteshwar/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -200,6 +201,7 @@
 | [0952-word-subsets](https://github.com/Jeeteshwar/LeetCode/tree/master/0952-word-subsets) |
 | [0999-regions-cut-by-slashes](https://github.com/Jeeteshwar/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/Jeeteshwar/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1019-squares-of-a-sorted-array](https://github.com/Jeeteshwar/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/Jeeteshwar/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Jeeteshwar/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1063-best-sightseeing-pair](https://github.com/Jeeteshwar/LeetCode/tree/master/1063-best-sightseeing-pair) |
@@ -467,6 +469,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/Jeeteshwar/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0941-sort-array-by-parity](https://github.com/Jeeteshwar/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/0948-sort-an-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/Jeeteshwar/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Jeeteshwar/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1256-rank-transform-of-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Jeeteshwar/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
