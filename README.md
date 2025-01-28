@@ -109,6 +109,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/Jeeteshwar/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Jeeteshwar/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/Jeeteshwar/LeetCode/tree/master/1923-sentence-similarity-iii) |
+| [1954-replace-all-digits-with-characters](https://github.com/Jeeteshwar/LeetCode/tree/master/1954-replace-all-digits-with-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/Jeeteshwar/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Jeeteshwar/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
