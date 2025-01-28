@@ -200,6 +200,7 @@
 | [0941-sort-array-by-parity](https://github.com/Jeeteshwar/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/Jeeteshwar/LeetCode/tree/master/0952-word-subsets) |
+| [0966-binary-subarrays-with-sum](https://github.com/Jeeteshwar/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/Jeeteshwar/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/Jeeteshwar/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1019-squares-of-a-sorted-array](https://github.com/Jeeteshwar/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -368,6 +369,7 @@
 | [0906-walking-robot-simulation](https://github.com/Jeeteshwar/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Jeeteshwar/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/Jeeteshwar/LeetCode/tree/master/0952-word-subsets) |
+| [0966-binary-subarrays-with-sum](https://github.com/Jeeteshwar/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Jeeteshwar/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Jeeteshwar/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Jeeteshwar/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -1022,6 +1024,7 @@
 | [0567-permutation-in-string](https://github.com/Jeeteshwar/LeetCode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Jeeteshwar/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Jeeteshwar/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/Jeeteshwar/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1755-defuse-the-bomb](https://github.com/Jeeteshwar/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Jeeteshwar/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Jeeteshwar/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -1128,6 +1131,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Jeeteshwar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Jeeteshwar/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/Jeeteshwar/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1240-stone-game-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Jeeteshwar/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Jeeteshwar/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
