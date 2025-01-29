@@ -8,8 +8,9 @@ class Solution {
             if(nums[i] == 1){
                 currCount++;
             }
-            if(nums[i] != 1 ) currCount = 0;
             count = Math.max(currCount,count);
+            if(nums[i] != 1 ) currCount = 0;
+            
         }
         return count;
     }
