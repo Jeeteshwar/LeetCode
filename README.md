@@ -12,6 +12,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/Jeeteshwar/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/Jeeteshwar/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/Jeeteshwar/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Jeeteshwar/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Jeeteshwar/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/Jeeteshwar/LeetCode/tree/master/0725-split-linked-list-in-parts) |
@@ -595,6 +596,7 @@
 | [0002-add-two-numbers](https://github.com/Jeeteshwar/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Jeeteshwar/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Jeeteshwar/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0206-reverse-linked-list](https://github.com/Jeeteshwar/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Jeeteshwar/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Jeeteshwar/LeetCode/tree/master/0326-power-of-three) |
