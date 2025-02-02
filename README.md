@@ -121,6 +121,7 @@
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Jeeteshwar/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2232-adding-spaces-to-a-string](https://github.com/Jeeteshwar/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2235-capitalize-the-title](https://github.com/Jeeteshwar/LeetCode/tree/master/2235-capitalize-the-title) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/Jeeteshwar/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Jeeteshwar/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Jeeteshwar/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Jeeteshwar/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
