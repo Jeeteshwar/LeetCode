@@ -223,6 +223,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Jeeteshwar/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/Jeeteshwar/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Jeeteshwar/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Jeeteshwar/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Jeeteshwar/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Jeeteshwar/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Jeeteshwar/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -579,6 +580,7 @@
 | [1086-divisor-game](https://github.com/Jeeteshwar/LeetCode/tree/master/1086-divisor-game) |
 | [1240-stone-game-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/1240-stone-game-ii) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Jeeteshwar/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Jeeteshwar/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Jeeteshwar/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Jeeteshwar/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/Jeeteshwar/LeetCode/tree/master/1635-number-of-good-pairs) |
