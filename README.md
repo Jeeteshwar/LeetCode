@@ -38,6 +38,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Jeeteshwar/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Jeeteshwar/LeetCode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Jeeteshwar/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Jeeteshwar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Jeeteshwar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -171,6 +172,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Jeeteshwar/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Jeeteshwar/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Jeeteshwar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Jeeteshwar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Jeeteshwar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
