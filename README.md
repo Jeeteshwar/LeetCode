@@ -417,6 +417,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Jeeteshwar/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Jeeteshwar/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
+| [2434-design-a-number-container-system](https://github.com/Jeeteshwar/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Jeeteshwar/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2486-most-frequent-even-element](https://github.com/Jeeteshwar/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/Jeeteshwar/LeetCode/tree/master/2502-sort-the-people) |
@@ -1028,6 +1029,7 @@
 | [2300-construct-string-with-repeat-limit](https://github.com/Jeeteshwar/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Jeeteshwar/LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Jeeteshwar/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2434-design-a-number-container-system](https://github.com/Jeeteshwar/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Jeeteshwar/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Jeeteshwar/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Jeeteshwar/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -1160,6 +1162,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/Jeeteshwar/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/Jeeteshwar/LeetCode/tree/master/0859-design-circular-deque) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Jeeteshwar/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2434-design-a-number-container-system](https://github.com/Jeeteshwar/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Data Stream
 |  |
 | ------- |
@@ -1244,6 +1247,7 @@
 | ------- |
 | [0729-my-calendar-i](https://github.com/Jeeteshwar/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0731-my-calendar-ii) |
+| [2434-design-a-number-container-system](https://github.com/Jeeteshwar/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/Jeeteshwar/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Doubly-Linked List
 |  |
