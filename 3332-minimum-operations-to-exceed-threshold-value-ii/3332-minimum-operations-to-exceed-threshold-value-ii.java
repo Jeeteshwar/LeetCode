@@ -7,7 +7,7 @@ class Solution {
         }
 
         int count = 0;
-        while(pq.peek() < k && pq.size() > 1){
+        while(pq.peek() < k ){
             long x = pq.poll();
             long y = pq.poll();
 
