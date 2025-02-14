@@ -15,6 +15,7 @@
 | [0206-reverse-linked-list](https://github.com/Jeeteshwar/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Jeeteshwar/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Jeeteshwar/LeetCode/tree/master/0432-all-oone-data-structure) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Jeeteshwar/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Jeeteshwar/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [0835-linked-list-components](https://github.com/Jeeteshwar/LeetCode/tree/master/0835-linked-list-components) |
 | [0859-design-circular-deque](https://github.com/Jeeteshwar/LeetCode/tree/master/0859-design-circular-deque) |
@@ -43,6 +44,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Jeeteshwar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Jeeteshwar/LeetCode/tree/master/0392-is-subsequence) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Jeeteshwar/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0541-reverse-string-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Jeeteshwar/LeetCode/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Jeeteshwar/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
