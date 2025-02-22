@@ -96,6 +96,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/Jeeteshwar/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/Jeeteshwar/LeetCode/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Jeeteshwar/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Jeeteshwar/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Jeeteshwar/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1197-parsing-a-boolean-expression](https://github.com/Jeeteshwar/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1205-defanging-an-ip-address](https://github.com/Jeeteshwar/LeetCode/tree/master/1205-defanging-an-ip-address) |
@@ -697,6 +698,7 @@
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Jeeteshwar/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Jeeteshwar/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Jeeteshwar/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Jeeteshwar/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Jeeteshwar/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -736,6 +738,7 @@
 | [0854-making-a-large-island](https://github.com/Jeeteshwar/LeetCode/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Jeeteshwar/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Jeeteshwar/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Jeeteshwar/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Jeeteshwar/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Jeeteshwar/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Jeeteshwar/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -818,6 +821,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Jeeteshwar/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Jeeteshwar/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Jeeteshwar/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Jeeteshwar/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
