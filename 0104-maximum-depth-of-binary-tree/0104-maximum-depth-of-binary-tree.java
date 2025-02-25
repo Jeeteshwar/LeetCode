@@ -15,25 +15,14 @@
  */
 class Solution {
     public int maxDepth(TreeNode root) {
-        if(root == null){ // if the tree is empty
+        if(root == null) 
             return 0;
-        }
 
-        if(root.left == null && root.right == null){ //if both leftsub tree and right subtree is empty return only root node
-            return 1;
-        }
+        int left = maxDepth(root.left);
+        int right = maxDepth(root.right);
 
-        if(root.left == null){ // if left tree if empty , return depth of right subtree
-            return 1 + maxDepth(root.right);
-        
-        }
-        if(root.right == null){  // if right tree if empty , return depth of left subtree
-            return 1 + maxDepth(root.left);
-        }
+        return Math.max(left , right) + 1;
 
-        //IF BOTH SUBTREES ARE PRESENT THEN FIND MIN DEPTH USING MATH.MIN AND RECURSION
-        return 1 + Math.max(maxDepth(root.left),maxDepth(root.right));
 
-        
     }
 }
