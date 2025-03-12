@@ -1,15 +1,16 @@
 class Solution {
     public int maximumCount(int[] nums) {
-        int n = nums.length;
-        int pos = 0 , neg = 0;
-        for(int i = 0 ; i < n ; i++){
-            if(nums[i] != 0 && nums[i] > 0){
-                neg++;
+        int positiveCount = 0;
+        int negativeCount = 0;
+        
+        for (int num : nums) {
+            if (num > 0) {
+                positiveCount++;
+            } else if (num < 0) {
+                negativeCount++;
             }
-            else if(nums[i] != 0 && nums[i] < 0){
-                pos++;
-            }
-        }   
-       return neg > pos ? neg : pos;
+        }
+        
+        return Math.max(positiveCount, negativeCount);
     }
 }
