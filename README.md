@@ -396,6 +396,7 @@
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Jeeteshwar/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3643-zero-array-transformation-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -534,6 +535,7 @@
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Jeeteshwar/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3427-special-array-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -1325,6 +1327,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/Jeeteshwar/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/Jeeteshwar/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3427-special-array-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3427-special-array-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Number Theory
 |  |
 | ------- |
