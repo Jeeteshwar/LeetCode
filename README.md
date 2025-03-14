@@ -82,6 +82,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Jeeteshwar/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Jeeteshwar/LeetCode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Jeeteshwar/LeetCode/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/Jeeteshwar/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Jeeteshwar/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/Jeeteshwar/LeetCode/tree/master/0520-detect-capital) |
 | [0539-minimum-time-difference](https://github.com/Jeeteshwar/LeetCode/tree/master/0539-minimum-time-difference) |
