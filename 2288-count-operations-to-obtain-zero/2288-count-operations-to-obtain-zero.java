@@ -4,7 +4,6 @@ class Solution {
         int [] nums = {num1 , num2};
         Arrays.sort(nums);
             while (nums[0] != 0 && nums[1] != 0){
-                Arrays.sort(nums);
                 if(nums[0] > nums[1]){
                     nums[0] -= nums[1];
                     count++;
