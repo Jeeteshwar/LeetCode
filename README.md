@@ -382,6 +382,7 @@
 | [2868-continuous-subarrays](https://github.com/Jeeteshwar/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Jeeteshwar/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Jeeteshwar/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2904-sorting-three-groups](https://github.com/Jeeteshwar/LeetCode/tree/master/2904-sorting-three-groups) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Jeeteshwar/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3194-find-words-containing-character](https://github.com/Jeeteshwar/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Jeeteshwar/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -552,6 +553,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/Jeeteshwar/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Jeeteshwar/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Jeeteshwar/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2904-sorting-three-groups](https://github.com/Jeeteshwar/LeetCode/tree/master/2904-sorting-three-groups) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Jeeteshwar/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3427-special-array-ii) |
@@ -1276,6 +1278,7 @@
 | [2562-count-ways-to-build-good-strings](https://github.com/Jeeteshwar/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Jeeteshwar/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2904-sorting-three-groups](https://github.com/Jeeteshwar/LeetCode/tree/master/2904-sorting-three-groups) |
 ## Shortest Path
 |  |
 | ------- |
