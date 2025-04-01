@@ -324,6 +324,7 @@
 | [2227-sum-of-subarray-ranges](https://github.com/Jeeteshwar/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2232-adding-spaces-to-a-string](https://github.com/Jeeteshwar/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Jeeteshwar/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2262-solving-questions-with-brainpower](https://github.com/Jeeteshwar/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Jeeteshwar/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Jeeteshwar/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -1284,6 +1285,7 @@
 | [2067-maximum-number-of-points-with-cost](https://github.com/Jeeteshwar/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Jeeteshwar/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/Jeeteshwar/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
+| [2262-solving-questions-with-brainpower](https://github.com/Jeeteshwar/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2554-minimum-total-distance-traveled](https://github.com/Jeeteshwar/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Jeeteshwar/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
