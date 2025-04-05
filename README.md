@@ -299,6 +299,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Jeeteshwar/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Jeeteshwar/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1972-rotating-the-box](https://github.com/Jeeteshwar/LeetCode/tree/master/1972-rotating-the-box) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Jeeteshwar/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Jeeteshwar/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Jeeteshwar/LeetCode/tree/master/2035-count-sub-islands) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Jeeteshwar/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -705,6 +706,7 @@
 | [1806-count-of-matches-in-tournament](https://github.com/Jeeteshwar/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Jeeteshwar/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Jeeteshwar/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Jeeteshwar/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/Jeeteshwar/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2155-find-missing-observations](https://github.com/Jeeteshwar/LeetCode/tree/master/2155-find-missing-observations) |
@@ -979,6 +981,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/Jeeteshwar/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Jeeteshwar/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Jeeteshwar/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Jeeteshwar/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Jeeteshwar/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Jeeteshwar/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Jeeteshwar/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -1107,6 +1110,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Jeeteshwar/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Jeeteshwar/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2507-number-of-common-factors](https://github.com/Jeeteshwar/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Jeeteshwar/LeetCode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
@@ -1371,6 +1375,7 @@
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Jeeteshwar/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Jeeteshwar/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Jeeteshwar/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Jeeteshwar/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Jeeteshwar/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Jeeteshwar/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Jeeteshwar/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -1481,4 +1486,8 @@
 |  |
 | ------- |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Jeeteshwar/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Jeeteshwar/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
