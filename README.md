@@ -433,6 +433,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Jeeteshwar/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Jeeteshwar/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3643-zero-array-transformation-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3643-zero-array-transformation-ii) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Jeeteshwar/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
 | ------- |
