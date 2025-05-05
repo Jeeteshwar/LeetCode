@@ -181,6 +181,7 @@
 | [0011-container-with-most-water](https://github.com/Jeeteshwar/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jeeteshwar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Jeeteshwar/LeetCode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Jeeteshwar/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Jeeteshwar/LeetCode/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Jeeteshwar/LeetCode/tree/master/0041-first-missing-positive) |
@@ -555,6 +556,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jeeteshwar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Jeeteshwar/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Jeeteshwar/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Jeeteshwar/LeetCode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jeeteshwar/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
