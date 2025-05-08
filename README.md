@@ -645,6 +645,7 @@
 | [2179-most-beautiful-item-for-each-query](https://github.com/Jeeteshwar/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Jeeteshwar/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Jeeteshwar/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Jeeteshwar/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Jeeteshwar/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Jeeteshwar/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -696,6 +697,7 @@
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Jeeteshwar/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Jeeteshwar/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Jeeteshwar/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Jeeteshwar/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Jeeteshwar/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Jeeteshwar/LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Jeeteshwar/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -761,6 +763,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2155-find-missing-observations](https://github.com/Jeeteshwar/LeetCode/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Jeeteshwar/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Jeeteshwar/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Jeeteshwar/LeetCode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Jeeteshwar/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Jeeteshwar/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
