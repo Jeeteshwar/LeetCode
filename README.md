@@ -173,6 +173,7 @@
 | [3451-string-compression-iii](https://github.com/Jeeteshwar/LeetCode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Jeeteshwar/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Jeeteshwar/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Array
 |  |
@@ -559,6 +560,7 @@
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Jeeteshwar/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Jeeteshwar/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -794,6 +796,7 @@
 | [3548-find-the-count-of-good-integers](https://github.com/Jeeteshwar/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Jeeteshwar/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Jeeteshwar/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3830-find-closest-person](https://github.com/Jeeteshwar/LeetCode/tree/master/3830-find-closest-person) |
 ## Recursion
@@ -1169,6 +1172,7 @@
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Jeeteshwar/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1397,6 +1401,7 @@
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Jeeteshwar/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2904-sorting-three-groups](https://github.com/Jeeteshwar/LeetCode/tree/master/2904-sorting-three-groups) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Jeeteshwar/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Jeeteshwar/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Shortest Path
 |  |
