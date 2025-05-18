@@ -318,6 +318,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Jeeteshwar/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Jeeteshwar/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1972-rotating-the-box](https://github.com/Jeeteshwar/LeetCode/tree/master/1972-rotating-the-box) |
+| [1975-minimum-distance-to-the-target-element](https://github.com/Jeeteshwar/LeetCode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Jeeteshwar/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Jeeteshwar/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Jeeteshwar/LeetCode/tree/master/2035-count-sub-islands) |
