@@ -195,6 +195,7 @@
 | [0048-rotate-image](https://github.com/Jeeteshwar/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Jeeteshwar/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Jeeteshwar/LeetCode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Jeeteshwar/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Jeeteshwar/LeetCode/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jeeteshwar/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -463,6 +464,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Jeeteshwar/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Jeeteshwar/LeetCode/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/Jeeteshwar/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jeeteshwar/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Jeeteshwar/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -1217,6 +1219,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Jeeteshwar/LeetCode/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Jeeteshwar/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/Jeeteshwar/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/Jeeteshwar/LeetCode/tree/master/0854-making-a-large-island) |
