@@ -882,6 +882,7 @@
 | [3548-find-the-count-of-good-integers](https://github.com/Jeeteshwar/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Jeeteshwar/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Jeeteshwar/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
@@ -904,6 +905,7 @@
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Jeeteshwar/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Jeeteshwar/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Jeeteshwar/LeetCode/tree/master/2050-count-good-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Interactive
 |  |
 | ------- |
@@ -1140,6 +1142,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Jeeteshwar/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Jeeteshwar/LeetCode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1172,6 +1175,7 @@
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Jeeteshwar/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
 |  |
 | ------- |
