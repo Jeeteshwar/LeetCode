@@ -404,6 +404,7 @@
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Jeeteshwar/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Jeeteshwar/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Jeeteshwar/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2411-spiral-matrix-iv](https://github.com/Jeeteshwar/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Jeeteshwar/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -982,6 +983,7 @@
 | [1484-linked-list-in-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Jeeteshwar/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Jeeteshwar/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Jeeteshwar/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Jeeteshwar/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -1034,6 +1036,7 @@
 | [2201-valid-arrangement-of-pairs](https://github.com/Jeeteshwar/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Jeeteshwar/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Jeeteshwar/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Jeeteshwar/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Jeeteshwar/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -1198,6 +1201,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/Jeeteshwar/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Jeeteshwar/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Jeeteshwar/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2427-first-letter-to-appear-twice](https://github.com/Jeeteshwar/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2478-longest-nice-subarray](https://github.com/Jeeteshwar/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2509-minimize-xor](https://github.com/Jeeteshwar/LeetCode/tree/master/2509-minimize-xor) |
