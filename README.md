@@ -929,6 +929,7 @@
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Jeeteshwar/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Jeeteshwar/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3830-find-closest-person](https://github.com/Jeeteshwar/LeetCode/tree/master/3830-find-closest-person) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Jeeteshwar/LeetCode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
 | ------- |
