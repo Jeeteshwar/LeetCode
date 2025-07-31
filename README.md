@@ -273,6 +273,7 @@
 | [0921-spiral-matrix-iii](https://github.com/Jeeteshwar/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Jeeteshwar/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0932-monotonic-array](https://github.com/Jeeteshwar/LeetCode/tree/master/0932-monotonic-array) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Jeeteshwar/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0941-sort-array-by-parity](https://github.com/Jeeteshwar/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0945-snakes-and-ladders](https://github.com/Jeeteshwar/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/0948-sort-an-array) |
@@ -1203,6 +1204,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Jeeteshwar/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/Jeeteshwar/LeetCode/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Jeeteshwar/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Jeeteshwar/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Jeeteshwar/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Jeeteshwar/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Jeeteshwar/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -1570,6 +1572,7 @@
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Jeeteshwar/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0806-domino-and-tromino-tiling](https://github.com/Jeeteshwar/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Jeeteshwar/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Jeeteshwar/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/Jeeteshwar/LeetCode/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/Jeeteshwar/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Jeeteshwar/LeetCode/tree/master/1063-best-sightseeing-pair) |
