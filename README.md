@@ -867,6 +867,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Jeeteshwar/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Jeeteshwar/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Jeeteshwar/LeetCode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Jeeteshwar/LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/Jeeteshwar/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Jeeteshwar/LeetCode/tree/master/0263-ugly-number) |
@@ -960,6 +961,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Jeeteshwar/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Jeeteshwar/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Jeeteshwar/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Jeeteshwar/LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Jeeteshwar/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Jeeteshwar/LeetCode/tree/master/0326-power-of-three) |
@@ -1217,6 +1219,7 @@
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Jeeteshwar/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Jeeteshwar/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/Jeeteshwar/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Jeeteshwar/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Jeeteshwar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Jeeteshwar/LeetCode/tree/master/0342-power-of-four) |
