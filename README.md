@@ -558,6 +558,7 @@
 | [0797-rabbits-in-forest](https://github.com/Jeeteshwar/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0835-linked-list-components](https://github.com/Jeeteshwar/LeetCode/tree/master/0835-linked-list-components) |
 | [0870-magic-squares-in-grid](https://github.com/Jeeteshwar/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [0900-reordered-power-of-2](https://github.com/Jeeteshwar/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Jeeteshwar/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/Jeeteshwar/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Jeeteshwar/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -738,6 +739,7 @@
 | [0726-number-of-atoms](https://github.com/Jeeteshwar/LeetCode/tree/master/0726-number-of-atoms) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Jeeteshwar/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Jeeteshwar/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0900-reordered-power-of-2](https://github.com/Jeeteshwar/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0941-sort-array-by-parity](https://github.com/Jeeteshwar/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
@@ -888,6 +890,7 @@
 | [0797-rabbits-in-forest](https://github.com/Jeeteshwar/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Jeeteshwar/LeetCode/tree/master/0826-soup-servings) |
 | [0870-magic-squares-in-grid](https://github.com/Jeeteshwar/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [0900-reordered-power-of-2](https://github.com/Jeeteshwar/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Jeeteshwar/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Jeeteshwar/LeetCode/tree/master/1086-divisor-game) |
 | [1240-stone-game-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/1240-stone-game-ii) |
@@ -1329,6 +1332,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Jeeteshwar/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Jeeteshwar/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Jeeteshwar/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0900-reordered-power-of-2](https://github.com/Jeeteshwar/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Jeeteshwar/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1160-letter-tile-possibilities](https://github.com/Jeeteshwar/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Jeeteshwar/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -1380,6 +1384,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/Jeeteshwar/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/Jeeteshwar/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Jeeteshwar/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Jeeteshwar/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
