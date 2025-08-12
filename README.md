@@ -1635,6 +1635,7 @@
 | [2562-count-ways-to-build-good-strings](https://github.com/Jeeteshwar/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Jeeteshwar/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Jeeteshwar/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2904-sorting-three-groups](https://github.com/Jeeteshwar/LeetCode/tree/master/2904-sorting-three-groups) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
