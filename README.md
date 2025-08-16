@@ -1882,4 +1882,8 @@
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/Jeeteshwar/LeetCode/tree/master/0826-soup-servings) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Jeeteshwar/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
