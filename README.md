@@ -816,6 +816,7 @@
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Jeeteshwar/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Jeeteshwar/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1304-longest-happy-string](https://github.com/Jeeteshwar/LeetCode/tree/master/1304-longest-happy-string) |
+| [1448-maximum-69-number](https://github.com/Jeeteshwar/LeetCode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Jeeteshwar/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/Jeeteshwar/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Jeeteshwar/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -900,6 +901,7 @@
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Jeeteshwar/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Jeeteshwar/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Jeeteshwar/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1448-maximum-69-number](https://github.com/Jeeteshwar/LeetCode/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Jeeteshwar/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/Jeeteshwar/LeetCode/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Jeeteshwar/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
