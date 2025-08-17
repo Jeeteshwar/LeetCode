@@ -892,6 +892,7 @@
 | [0670-maximum-swap](https://github.com/Jeeteshwar/LeetCode/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/Jeeteshwar/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Jeeteshwar/LeetCode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Jeeteshwar/LeetCode/tree/master/0867-new-21-game) |
 | [0870-magic-squares-in-grid](https://github.com/Jeeteshwar/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/Jeeteshwar/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Jeeteshwar/LeetCode/tree/master/1013-fibonacci-number) |
@@ -1561,6 +1562,7 @@
 | [0567-permutation-in-string](https://github.com/Jeeteshwar/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Jeeteshwar/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Jeeteshwar/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0867-new-21-game](https://github.com/Jeeteshwar/LeetCode/tree/master/0867-new-21-game) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Jeeteshwar/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/Jeeteshwar/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Jeeteshwar/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
@@ -1609,6 +1611,7 @@
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Jeeteshwar/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0806-domino-and-tromino-tiling](https://github.com/Jeeteshwar/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/Jeeteshwar/LeetCode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Jeeteshwar/LeetCode/tree/master/0867-new-21-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Jeeteshwar/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Jeeteshwar/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/Jeeteshwar/LeetCode/tree/master/1013-fibonacci-number) |
@@ -1882,6 +1885,7 @@
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/Jeeteshwar/LeetCode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Jeeteshwar/LeetCode/tree/master/0867-new-21-game) |
 ## Database
 |  |
 | ------- |
