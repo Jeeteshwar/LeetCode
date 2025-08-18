@@ -173,6 +173,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/Jeeteshwar/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/Jeeteshwar/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Jeeteshwar/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2819-remove-trailing-zeros-from-a-string](https://github.com/Jeeteshwar/LeetCode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Jeeteshwar/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
