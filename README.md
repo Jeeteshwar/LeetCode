@@ -330,6 +330,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Jeeteshwar/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Jeeteshwar/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Jeeteshwar/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Jeeteshwar/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Jeeteshwar/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/Jeeteshwar/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Jeeteshwar/LeetCode/tree/master/1646-kth-missing-positive-number) |
@@ -1319,6 +1320,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Jeeteshwar/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Jeeteshwar/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Jeeteshwar/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Jeeteshwar/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1720-crawler-log-folder](https://github.com/Jeeteshwar/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Jeeteshwar/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -1389,6 +1391,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/Jeeteshwar/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/Jeeteshwar/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Jeeteshwar/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Jeeteshwar/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Jeeteshwar/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2227-sum-of-subarray-ranges](https://github.com/Jeeteshwar/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Jeeteshwar/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -1430,6 +1433,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Jeeteshwar/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Jeeteshwar/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Jeeteshwar/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Jeeteshwar/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1677-matrix-diagonal-sum](https://github.com/Jeeteshwar/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Jeeteshwar/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1876-map-of-highest-peak](https://github.com/Jeeteshwar/LeetCode/tree/master/1876-map-of-highest-peak) |
@@ -1629,6 +1633,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Jeeteshwar/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Jeeteshwar/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Jeeteshwar/LeetCode/tree/master/1511-count-number-of-teams) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Jeeteshwar/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Jeeteshwar/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Jeeteshwar/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Jeeteshwar/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
