@@ -1255,6 +1255,7 @@
 | [0231-power-of-two](https://github.com/Jeeteshwar/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Jeeteshwar/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Jeeteshwar/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Jeeteshwar/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Jeeteshwar/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Jeeteshwar/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Jeeteshwar/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -1643,6 +1644,7 @@
 | [0118-pascals-triangle](https://github.com/Jeeteshwar/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jeeteshwar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0338-counting-bits](https://github.com/Jeeteshwar/LeetCode/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/Jeeteshwar/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/Jeeteshwar/LeetCode/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/Jeeteshwar/LeetCode/tree/master/0494-target-sum) |
