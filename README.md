@@ -118,6 +118,7 @@
 | [1170-shortest-common-supersequence](https://github.com/Jeeteshwar/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/Jeeteshwar/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1205-defanging-an-ip-address](https://github.com/Jeeteshwar/LeetCode/tree/master/1205-defanging-an-ip-address) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Jeeteshwar/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Jeeteshwar/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/Jeeteshwar/LeetCode/tree/master/1304-longest-happy-string) |
@@ -600,6 +601,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Jeeteshwar/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Jeeteshwar/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Jeeteshwar/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1364-tuple-with-same-product](https://github.com/Jeeteshwar/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Jeeteshwar/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
