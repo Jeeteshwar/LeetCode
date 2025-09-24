@@ -87,6 +87,7 @@
 | [0038-count-and-say](https://github.com/Jeeteshwar/LeetCode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Jeeteshwar/LeetCode/tree/master/0058-length-of-last-word) |
 | [0165-compare-version-numbers](https://github.com/Jeeteshwar/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Jeeteshwar/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/Jeeteshwar/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0214-shortest-palindrome](https://github.com/Jeeteshwar/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -568,6 +569,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jeeteshwar/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Jeeteshwar/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Jeeteshwar/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Jeeteshwar/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Jeeteshwar/LeetCode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -913,6 +915,7 @@
 | [0066-plus-one](https://github.com/Jeeteshwar/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Jeeteshwar/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Jeeteshwar/LeetCode/tree/master/0070-climbing-stairs) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Jeeteshwar/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/Jeeteshwar/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Jeeteshwar/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Jeeteshwar/LeetCode/tree/master/0202-happy-number) |
