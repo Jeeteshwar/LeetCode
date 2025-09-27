@@ -280,6 +280,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/Jeeteshwar/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Jeeteshwar/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0797-rabbits-in-forest](https://github.com/Jeeteshwar/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/Jeeteshwar/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0835-linked-list-components](https://github.com/Jeeteshwar/LeetCode/tree/master/0835-linked-list-components) |
 | [0854-making-a-large-island](https://github.com/Jeeteshwar/LeetCode/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/Jeeteshwar/LeetCode/tree/master/0859-design-circular-deque) |
@@ -947,6 +948,7 @@
 | [0679-24-game](https://github.com/Jeeteshwar/LeetCode/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/Jeeteshwar/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Jeeteshwar/LeetCode/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/Jeeteshwar/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/Jeeteshwar/LeetCode/tree/master/0867-new-21-game) |
 | [0870-magic-squares-in-grid](https://github.com/Jeeteshwar/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/Jeeteshwar/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -1979,6 +1981,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/Jeeteshwar/LeetCode/tree/master/0830-largest-triangle-area) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Jeeteshwar/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Combinatorics
