@@ -305,6 +305,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/Jeeteshwar/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/Jeeteshwar/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1006-vowel-spellchecker](https://github.com/Jeeteshwar/LeetCode/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/Jeeteshwar/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Jeeteshwar/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/Jeeteshwar/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Jeeteshwar/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -793,6 +794,7 @@
 | [0941-sort-array-by-parity](https://github.com/Jeeteshwar/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
+| [1018-largest-perimeter-triangle](https://github.com/Jeeteshwar/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Jeeteshwar/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Jeeteshwar/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1256-rank-transform-of-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -865,6 +867,7 @@
 | [0797-rabbits-in-forest](https://github.com/Jeeteshwar/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/Jeeteshwar/LeetCode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Jeeteshwar/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1018-largest-perimeter-triangle](https://github.com/Jeeteshwar/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Jeeteshwar/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Jeeteshwar/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1304-longest-happy-string](https://github.com/Jeeteshwar/LeetCode/tree/master/1304-longest-happy-string) |
@@ -953,6 +956,7 @@
 | [0870-magic-squares-in-grid](https://github.com/Jeeteshwar/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/Jeeteshwar/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Jeeteshwar/LeetCode/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/Jeeteshwar/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/Jeeteshwar/LeetCode/tree/master/1086-divisor-game) |
 | [1240-stone-game-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/1240-stone-game-ii) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Jeeteshwar/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
