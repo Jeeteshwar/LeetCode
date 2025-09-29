@@ -312,6 +312,7 @@
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Jeeteshwar/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Jeeteshwar/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/Jeeteshwar/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/Jeeteshwar/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Jeeteshwar/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1196-filling-bookcase-shelves](https://github.com/Jeeteshwar/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Jeeteshwar/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -1714,6 +1715,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/Jeeteshwar/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Jeeteshwar/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1086-divisor-game](https://github.com/Jeeteshwar/LeetCode/tree/master/1086-divisor-game) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/Jeeteshwar/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1170-shortest-common-supersequence](https://github.com/Jeeteshwar/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1196-filling-bookcase-shelves](https://github.com/Jeeteshwar/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/1240-stone-game-ii) |
