@@ -1017,6 +1017,7 @@
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Jeeteshwar/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/Jeeteshwar/LeetCode/tree/master/3321-type-of-triangle) |
+| [3336-water-bottles-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Jeeteshwar/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3462-vowels-game-in-a-string](https://github.com/Jeeteshwar/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Jeeteshwar/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -1292,6 +1293,7 @@
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Jeeteshwar/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Jeeteshwar/LeetCode/tree/master/2846-robot-collisions) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3336-water-bottles-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Jeeteshwar/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Jeeteshwar/LeetCode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
