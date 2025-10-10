@@ -533,6 +533,7 @@
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Jeeteshwar/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Jeeteshwar/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Jeeteshwar/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3427-special-array-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3427-special-array-ii) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Jeeteshwar/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -1920,6 +1921,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/Jeeteshwar/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/Jeeteshwar/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2915-count-of-interesting-subarrays](https://github.com/Jeeteshwar/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Jeeteshwar/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
