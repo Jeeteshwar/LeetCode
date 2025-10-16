@@ -487,6 +487,7 @@
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Jeeteshwar/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Jeeteshwar/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Jeeteshwar/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Jeeteshwar/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Jeeteshwar/LeetCode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Jeeteshwar/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -694,6 +695,7 @@
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Jeeteshwar/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Jeeteshwar/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Jeeteshwar/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Jeeteshwar/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Jeeteshwar/LeetCode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Jeeteshwar/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -933,6 +935,7 @@
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Jeeteshwar/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Jeeteshwar/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Jeeteshwar/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Jeeteshwar/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/Jeeteshwar/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Jeeteshwar/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/Jeeteshwar/LeetCode/tree/master/2716-prime-subtraction-operation) |
@@ -1035,6 +1038,7 @@
 | [2630-alternating-digit-sum](https://github.com/Jeeteshwar/LeetCode/tree/master/2630-alternating-digit-sum) |
 | [2645-pass-the-pillow](https://github.com/Jeeteshwar/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Jeeteshwar/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Jeeteshwar/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Jeeteshwar/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/Jeeteshwar/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Jeeteshwar/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
