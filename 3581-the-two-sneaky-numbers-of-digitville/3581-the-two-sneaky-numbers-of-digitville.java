@@ -1,20 +1,17 @@
 class Solution {
     public int[] getSneakyNumbers(int[] nums) {
-        HashMap<Integer , Integer> map = new HashMap <>();
-        ArrayList<Integer> res = new ArrayList <>();
-
-        for(int num : nums){
-            map.put(num, map.getOrDefault(num, 0) + 1);
-        }
-        for(int num : map.keySet()){
-            if(map.get(num) > 1){
-                res.add(num);
+        Arrays.sort(nums);
+        int n = nums.length;
+        int res[] = new int[2];
+        int index = 0;
+    
+        for(int i = 1 ; i < n ; i++){
+            if(nums[i] == nums[i -1]){
+                res[index++] = nums[i];
+                if(index == 2) break;
             }
         }
-        int [] result = new int [res.size()];
-        for(int i = 0 ; i < res.size() ; i++){
-            result[i] = res.get(i);
-        }
-        return result;
+        return res;
+
     }
 }
