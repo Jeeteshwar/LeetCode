@@ -101,6 +101,7 @@
 | [0415-add-strings](https://github.com/Jeeteshwar/LeetCode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Jeeteshwar/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Jeeteshwar/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0474-ones-and-zeroes](https://github.com/Jeeteshwar/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0520-detect-capital](https://github.com/Jeeteshwar/LeetCode/tree/master/0520-detect-capital) |
 | [0539-minimum-time-difference](https://github.com/Jeeteshwar/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0541-reverse-string-ii) |
@@ -269,6 +270,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Jeeteshwar/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0474-ones-and-zeroes](https://github.com/Jeeteshwar/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Jeeteshwar/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Jeeteshwar/LeetCode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Jeeteshwar/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -1819,6 +1821,7 @@
 | [0338-counting-bits](https://github.com/Jeeteshwar/LeetCode/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/Jeeteshwar/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/Jeeteshwar/LeetCode/tree/master/0392-is-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/Jeeteshwar/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Jeeteshwar/LeetCode/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/Jeeteshwar/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Jeeteshwar/LeetCode/tree/master/0664-strange-printer) |
