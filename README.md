@@ -378,6 +378,7 @@
 | [1656-count-good-triplets](https://github.com/Jeeteshwar/LeetCode/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/Jeeteshwar/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Jeeteshwar/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1690-maximum-length-of-subarray-with-positive-product](https://github.com/Jeeteshwar/LeetCode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Jeeteshwar/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/Jeeteshwar/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Jeeteshwar/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -946,6 +947,7 @@
 | [1612-avoid-flood-in-the-city](https://github.com/Jeeteshwar/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Jeeteshwar/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Jeeteshwar/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1690-maximum-length-of-subarray-with-positive-product](https://github.com/Jeeteshwar/LeetCode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Jeeteshwar/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Jeeteshwar/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Jeeteshwar/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -1858,6 +1860,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/Jeeteshwar/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Jeeteshwar/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Jeeteshwar/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1690-maximum-length-of-subarray-with-positive-product](https://github.com/Jeeteshwar/LeetCode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Jeeteshwar/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Jeeteshwar/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Jeeteshwar/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
