@@ -1,20 +1,26 @@
 class Solution {
     public int absDifference(int[] nums, int k) {
-        int n = nums.length;
-        if (nums.length == 1) return 0;
+        //Priotity queue
+        PriorityQueue<Integer> minHeap =  new PriorityQueue <>();
+        PriorityQueue<Integer> maxHeap = new PriorityQueue<>(Collections.reverseOrder());
+
+        for(int num : nums){ 
+            minHeap.offer(num);
+            maxHeap.offer(num);
+            }
         int res = 0;
-        Arrays.sort(nums);
-        int addS = 0;
-        int addL = 0;
-        //smallest
-        for(int i = 0 ; i < k ; i++){
-            addS += nums[i];
+
+        int small = 0;
+        int large = 0;
+        for(int i  = 0 ; i < k && !minHeap.isEmpty() ; i++){
+            small += minHeap.poll();
         }
-        //largest
-        for(int i = n - k ; i < n ; i++ ){
-            addL += nums[i];
+
+        for(int i  = 0 ; i < k && !maxHeap.isEmpty() ; i++){
+            large += maxHeap.poll();
         }
-        res = Math.abs(addS - addL);
+
+        res = Math.abs(small - large);
         return res;
     }
 }
