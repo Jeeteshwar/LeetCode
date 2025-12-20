@@ -117,6 +117,7 @@
 | [0812-rotate-string](https://github.com/Jeeteshwar/LeetCode/tree/master/0812-rotate-string) |
 | [0886-score-of-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/0886-score-of-parentheses) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Jeeteshwar/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Jeeteshwar/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/Jeeteshwar/LeetCode/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Jeeteshwar/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1006-vowel-spellchecker](https://github.com/Jeeteshwar/LeetCode/tree/master/1006-vowel-spellchecker) |
@@ -318,6 +319,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/Jeeteshwar/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Jeeteshwar/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/Jeeteshwar/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Jeeteshwar/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-snakes-and-ladders](https://github.com/Jeeteshwar/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/Jeeteshwar/LeetCode/tree/master/0952-word-subsets) |
