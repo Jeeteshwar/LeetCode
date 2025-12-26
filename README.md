@@ -1186,6 +1186,7 @@
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Jeeteshwar/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Jeeteshwar/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Jeeteshwar/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/Jeeteshwar/LeetCode/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Jeeteshwar/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Jeeteshwar/LeetCode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
