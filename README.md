@@ -112,6 +112,7 @@
 | [0692-top-k-frequent-words](https://github.com/Jeeteshwar/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0726-number-of-atoms](https://github.com/Jeeteshwar/LeetCode/tree/master/0726-number-of-atoms) |
 | [0742-to-lower-case](https://github.com/Jeeteshwar/LeetCode/tree/master/0742-to-lower-case) |
+| [0756-pyramid-transition-matrix](https://github.com/Jeeteshwar/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/Jeeteshwar/LeetCode/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Jeeteshwar/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Jeeteshwar/LeetCode/tree/master/0812-rotate-string) |
@@ -676,6 +677,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Jeeteshwar/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/Jeeteshwar/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0726-number-of-atoms](https://github.com/Jeeteshwar/LeetCode/tree/master/0726-number-of-atoms) |
+| [0756-pyramid-transition-matrix](https://github.com/Jeeteshwar/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/Jeeteshwar/LeetCode/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Jeeteshwar/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/Jeeteshwar/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -1497,6 +1499,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Jeeteshwar/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/Jeeteshwar/LeetCode/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Jeeteshwar/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0756-pyramid-transition-matrix](https://github.com/Jeeteshwar/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Jeeteshwar/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Jeeteshwar/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Jeeteshwar/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -2097,6 +2100,7 @@
 | [0040-combination-sum-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0494-target-sum](https://github.com/Jeeteshwar/LeetCode/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/Jeeteshwar/LeetCode/tree/master/0679-24-game) |
+| [0756-pyramid-transition-matrix](https://github.com/Jeeteshwar/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [1160-letter-tile-possibilities](https://github.com/Jeeteshwar/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Jeeteshwar/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Jeeteshwar/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
