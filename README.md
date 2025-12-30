@@ -309,6 +309,7 @@
 | [0797-rabbits-in-forest](https://github.com/Jeeteshwar/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/Jeeteshwar/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0835-linked-list-components](https://github.com/Jeeteshwar/LeetCode/tree/master/0835-linked-list-components) |
+| [0840-magic-squares-in-grid](https://github.com/Jeeteshwar/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/Jeeteshwar/LeetCode/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/Jeeteshwar/LeetCode/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/Jeeteshwar/LeetCode/tree/master/0870-magic-squares-in-grid) |
@@ -682,6 +683,7 @@
 | [0782-jewels-and-stones](https://github.com/Jeeteshwar/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/Jeeteshwar/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0835-linked-list-components](https://github.com/Jeeteshwar/LeetCode/tree/master/0835-linked-list-components) |
+| [0840-magic-squares-in-grid](https://github.com/Jeeteshwar/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0870-magic-squares-in-grid](https://github.com/Jeeteshwar/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/Jeeteshwar/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Jeeteshwar/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -1096,6 +1098,7 @@
 | [0797-rabbits-in-forest](https://github.com/Jeeteshwar/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Jeeteshwar/LeetCode/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/Jeeteshwar/LeetCode/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/Jeeteshwar/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/Jeeteshwar/LeetCode/tree/master/0867-new-21-game) |
 | [0870-magic-squares-in-grid](https://github.com/Jeeteshwar/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/Jeeteshwar/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -1713,6 +1716,7 @@
 | [0498-diagonal-traverse](https://github.com/Jeeteshwar/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0787-sliding-puzzle](https://github.com/Jeeteshwar/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/Jeeteshwar/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [0840-magic-squares-in-grid](https://github.com/Jeeteshwar/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/Jeeteshwar/LeetCode/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/Jeeteshwar/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0898-transpose-matrix](https://github.com/Jeeteshwar/LeetCode/tree/master/0898-transpose-matrix) |
