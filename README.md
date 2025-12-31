@@ -420,6 +420,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/Jeeteshwar/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Jeeteshwar/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Jeeteshwar/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Jeeteshwar/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/Jeeteshwar/LeetCode/tree/master/1972-rotating-the-box) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Jeeteshwar/LeetCode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Jeeteshwar/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -847,6 +848,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Jeeteshwar/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Jeeteshwar/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Jeeteshwar/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Jeeteshwar/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Jeeteshwar/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Jeeteshwar/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -1317,6 +1319,7 @@
 | [1484-linked-list-in-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Jeeteshwar/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Jeeteshwar/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Jeeteshwar/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2035-count-sub-islands](https://github.com/Jeeteshwar/LeetCode/tree/master/2035-count-sub-islands) |
 | [2092-find-all-people-with-secret](https://github.com/Jeeteshwar/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Jeeteshwar/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
@@ -1371,6 +1374,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Jeeteshwar/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Jeeteshwar/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1876-map-of-highest-peak](https://github.com/Jeeteshwar/LeetCode/tree/master/1876-map-of-highest-peak) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Jeeteshwar/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2035-count-sub-islands](https://github.com/Jeeteshwar/LeetCode/tree/master/2035-count-sub-islands) |
 | [2092-find-all-people-with-secret](https://github.com/Jeeteshwar/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Jeeteshwar/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -1733,6 +1737,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/Jeeteshwar/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Jeeteshwar/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1876-map-of-highest-peak](https://github.com/Jeeteshwar/LeetCode/tree/master/1876-map-of-highest-peak) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Jeeteshwar/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/Jeeteshwar/LeetCode/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/Jeeteshwar/LeetCode/tree/master/2035-count-sub-islands) |
 | [2089-maximum-matrix-sum](https://github.com/Jeeteshwar/LeetCode/tree/master/2089-maximum-matrix-sum) |
@@ -2065,6 +2070,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/Jeeteshwar/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Jeeteshwar/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/Jeeteshwar/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Jeeteshwar/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2035-count-sub-islands](https://github.com/Jeeteshwar/LeetCode/tree/master/2035-count-sub-islands) |
 | [2092-find-all-people-with-secret](https://github.com/Jeeteshwar/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Jeeteshwar/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
