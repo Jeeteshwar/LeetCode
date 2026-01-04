@@ -361,6 +361,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Jeeteshwar/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Jeeteshwar/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/Jeeteshwar/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1390-four-divisors](https://github.com/Jeeteshwar/LeetCode/tree/master/1390-four-divisors) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Jeeteshwar/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/Jeeteshwar/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Jeeteshwar/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -1112,6 +1113,7 @@
 | [1086-divisor-game](https://github.com/Jeeteshwar/LeetCode/tree/master/1086-divisor-game) |
 | [1175-prime-arrangements](https://github.com/Jeeteshwar/LeetCode/tree/master/1175-prime-arrangements) |
 | [1240-stone-game-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/1240-stone-game-ii) |
+| [1390-four-divisors](https://github.com/Jeeteshwar/LeetCode/tree/master/1390-four-divisors) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Jeeteshwar/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Jeeteshwar/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Jeeteshwar/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
