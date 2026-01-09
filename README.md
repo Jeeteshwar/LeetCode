@@ -691,6 +691,7 @@
 | [0797-rabbits-in-forest](https://github.com/Jeeteshwar/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0835-linked-list-components](https://github.com/Jeeteshwar/LeetCode/tree/master/0835-linked-list-components) |
 | [0840-magic-squares-in-grid](https://github.com/Jeeteshwar/LeetCode/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Jeeteshwar/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0870-magic-squares-in-grid](https://github.com/Jeeteshwar/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/Jeeteshwar/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Jeeteshwar/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -1265,6 +1266,7 @@
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Jeeteshwar/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Jeeteshwar/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Jeeteshwar/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Jeeteshwar/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1005-univalued-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Jeeteshwar/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -1319,6 +1321,7 @@
 | [0794-swim-in-rising-water](https://github.com/Jeeteshwar/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/Jeeteshwar/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Jeeteshwar/LeetCode/tree/master/0854-making-a-large-island) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Jeeteshwar/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Jeeteshwar/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Jeeteshwar/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1005-univalued-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/1005-univalued-binary-tree) |
@@ -1377,6 +1380,7 @@
 | [0794-swim-in-rising-water](https://github.com/Jeeteshwar/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/Jeeteshwar/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Jeeteshwar/LeetCode/tree/master/0854-making-a-large-island) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Jeeteshwar/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0945-snakes-and-ladders](https://github.com/Jeeteshwar/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0999-regions-cut-by-slashes](https://github.com/Jeeteshwar/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1005-univalued-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/1005-univalued-binary-tree) |
@@ -1439,6 +1443,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Jeeteshwar/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Jeeteshwar/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Jeeteshwar/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1005-univalued-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Jeeteshwar/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
