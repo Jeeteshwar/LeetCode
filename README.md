@@ -257,6 +257,7 @@
 | [0066-plus-one](https://github.com/Jeeteshwar/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Jeeteshwar/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Jeeteshwar/LeetCode/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/Jeeteshwar/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jeeteshwar/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Jeeteshwar/LeetCode/tree/master/0118-pascals-triangle) |
@@ -1609,6 +1610,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Jeeteshwar/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Jeeteshwar/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Jeeteshwar/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jeeteshwar/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0654-maximum-binary-tree) |
@@ -1698,6 +1700,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Jeeteshwar/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Jeeteshwar/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0654-maximum-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Jeeteshwar/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/Jeeteshwar/LeetCode/tree/master/1002-maximum-width-ramp) |
@@ -1742,6 +1745,7 @@
 | [0037-sudoku-solver](https://github.com/Jeeteshwar/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Jeeteshwar/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Jeeteshwar/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/Jeeteshwar/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Jeeteshwar/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/Jeeteshwar/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -1966,6 +1970,7 @@
 | [0042-trapping-rain-water](https://github.com/Jeeteshwar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Jeeteshwar/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Jeeteshwar/LeetCode/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/Jeeteshwar/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Jeeteshwar/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Jeeteshwar/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jeeteshwar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
