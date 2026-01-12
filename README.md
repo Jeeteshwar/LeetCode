@@ -356,6 +356,7 @@
 | [1240-stone-game-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Jeeteshwar/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Jeeteshwar/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1293-three-consecutive-odds](https://github.com/Jeeteshwar/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/Jeeteshwar/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Jeeteshwar/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -1121,6 +1122,7 @@
 | [1086-divisor-game](https://github.com/Jeeteshwar/LeetCode/tree/master/1086-divisor-game) |
 | [1175-prime-arrangements](https://github.com/Jeeteshwar/LeetCode/tree/master/1175-prime-arrangements) |
 | [1240-stone-game-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/1240-stone-game-ii) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Jeeteshwar/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Jeeteshwar/LeetCode/tree/master/1390-four-divisors) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Jeeteshwar/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Jeeteshwar/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -2307,6 +2309,7 @@
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Jeeteshwar/LeetCode/tree/master/0830-largest-triangle-area) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Jeeteshwar/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Jeeteshwar/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
