@@ -654,6 +654,7 @@
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Jeeteshwar/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Jeeteshwar/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Jeeteshwar/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3697-compute-decimal-representation](https://github.com/Jeeteshwar/LeetCode/tree/master/3697-compute-decimal-representation) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Jeeteshwar/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -1230,6 +1231,7 @@
 | [3637-count-number-of-balanced-permutations](https://github.com/Jeeteshwar/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Jeeteshwar/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Jeeteshwar/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3697-compute-decimal-representation](https://github.com/Jeeteshwar/LeetCode/tree/master/3697-compute-decimal-representation) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Jeeteshwar/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Jeeteshwar/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
