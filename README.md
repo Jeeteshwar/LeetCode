@@ -613,6 +613,7 @@
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Jeeteshwar/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Jeeteshwar/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Jeeteshwar/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3379-transformed-array](https://github.com/Jeeteshwar/LeetCode/tree/master/3379-transformed-array) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Jeeteshwar/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Jeeteshwar/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -1558,6 +1559,7 @@
 | [2846-robot-collisions](https://github.com/Jeeteshwar/LeetCode/tree/master/2846-robot-collisions) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3336-water-bottles-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3336-water-bottles-ii) |
+| [3379-transformed-array](https://github.com/Jeeteshwar/LeetCode/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/Jeeteshwar/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Jeeteshwar/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Jeeteshwar/LeetCode/tree/master/3447-clear-digits) |
