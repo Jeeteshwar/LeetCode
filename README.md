@@ -93,6 +93,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jeeteshwar/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Jeeteshwar/LeetCode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Jeeteshwar/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Jeeteshwar/LeetCode/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/Jeeteshwar/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Jeeteshwar/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/Jeeteshwar/LeetCode/tree/master/0171-excel-sheet-column-number) |
@@ -1140,6 +1141,7 @@
 | [0002-add-two-numbers](https://github.com/Jeeteshwar/LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Jeeteshwar/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Jeeteshwar/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Jeeteshwar/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Jeeteshwar/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Jeeteshwar/LeetCode/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Jeeteshwar/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -1533,6 +1535,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Jeeteshwar/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Jeeteshwar/LeetCode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Jeeteshwar/LeetCode/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/Jeeteshwar/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -1592,6 +1595,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Jeeteshwar/LeetCode/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/Jeeteshwar/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Jeeteshwar/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Jeeteshwar/LeetCode/tree/master/0231-power-of-two) |
