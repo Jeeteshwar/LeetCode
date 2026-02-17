@@ -1605,6 +1605,7 @@
 | [0338-counting-bits](https://github.com/Jeeteshwar/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Jeeteshwar/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Jeeteshwar/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0401-binary-watch](https://github.com/Jeeteshwar/LeetCode/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Jeeteshwar/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/Jeeteshwar/LeetCode/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Jeeteshwar/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
@@ -2249,6 +2250,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Jeeteshwar/LeetCode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0401-binary-watch](https://github.com/Jeeteshwar/LeetCode/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/Jeeteshwar/LeetCode/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/Jeeteshwar/LeetCode/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/Jeeteshwar/LeetCode/tree/master/0756-pyramid-transition-matrix) |
