@@ -1209,6 +1209,7 @@
 | [1635-number-of-good-pairs](https://github.com/Jeeteshwar/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Jeeteshwar/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/Jeeteshwar/LeetCode/tree/master/1642-water-bottles) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Jeeteshwar/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Jeeteshwar/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1806-count-of-matches-in-tournament](https://github.com/Jeeteshwar/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Jeeteshwar/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -1559,6 +1560,7 @@
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Jeeteshwar/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/Jeeteshwar/LeetCode/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Jeeteshwar/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Jeeteshwar/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1803-average-waiting-time](https://github.com/Jeeteshwar/LeetCode/tree/master/1803-average-waiting-time) |
 | [1806-count-of-matches-in-tournament](https://github.com/Jeeteshwar/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/Jeeteshwar/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -1634,6 +1636,7 @@
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Jeeteshwar/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Jeeteshwar/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Jeeteshwar/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Jeeteshwar/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Jeeteshwar/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Jeeteshwar/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Jeeteshwar/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
