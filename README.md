@@ -164,6 +164,7 @@
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Jeeteshwar/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Jeeteshwar/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Jeeteshwar/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Jeeteshwar/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Jeeteshwar/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Jeeteshwar/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Jeeteshwar/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
