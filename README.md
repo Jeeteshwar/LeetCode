@@ -711,6 +711,7 @@
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Jeeteshwar/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Jeeteshwar/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Jeeteshwar/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Jeeteshwar/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Jeeteshwar/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3697-compute-decimal-representation](https://github.com/Jeeteshwar/LeetCode/tree/master/3697-compute-decimal-representation) |
 | [3719-longest-balanced-subarray-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
@@ -982,6 +983,7 @@
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3643-zero-array-transformation-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Jeeteshwar/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3790-fruits-into-baskets-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Jeeteshwar/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Sorting
@@ -1098,6 +1100,7 @@
 | [3634-minimum-removals-to-balance-array](https://github.com/Jeeteshwar/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Jeeteshwar/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Jeeteshwar/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Jeeteshwar/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Greedy
 |  |
@@ -2250,6 +2253,7 @@
 | [3640-trionic-array-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Jeeteshwar/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Jeeteshwar/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Jeeteshwar/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Jeeteshwar/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Jeeteshwar/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Shortest Path
