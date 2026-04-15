@@ -214,6 +214,7 @@
 | [2483-minimum-penalty-for-a-shop](https://github.com/Jeeteshwar/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Jeeteshwar/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/Jeeteshwar/LeetCode/tree/master/2502-sort-the-people) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Jeeteshwar/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2573-find-the-string-with-lcp](https://github.com/Jeeteshwar/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Jeeteshwar/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -562,6 +563,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Jeeteshwar/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2502-sort-the-people](https://github.com/Jeeteshwar/LeetCode/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Jeeteshwar/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Jeeteshwar/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2529-range-product-queries-of-powers](https://github.com/Jeeteshwar/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Jeeteshwar/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
