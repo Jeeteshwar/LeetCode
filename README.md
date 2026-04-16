@@ -53,6 +53,7 @@
 | [0541-reverse-string-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Jeeteshwar/LeetCode/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/Jeeteshwar/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/Jeeteshwar/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0696-count-binary-substrings](https://github.com/Jeeteshwar/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Jeeteshwar/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/Jeeteshwar/LeetCode/tree/master/0768-partition-labels) |
@@ -326,6 +327,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/Jeeteshwar/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Jeeteshwar/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0654-maximum-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0654-maximum-binary-tree) |
+| [0658-find-k-closest-elements](https://github.com/Jeeteshwar/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Jeeteshwar/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0679-24-game](https://github.com/Jeeteshwar/LeetCode/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Jeeteshwar/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -943,6 +945,7 @@
 | [0367-valid-perfect-square](https://github.com/Jeeteshwar/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Jeeteshwar/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Jeeteshwar/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/Jeeteshwar/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Jeeteshwar/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Jeeteshwar/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0731-my-calendar-ii) |
@@ -1022,6 +1025,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Jeeteshwar/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Jeeteshwar/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Jeeteshwar/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0658-find-k-closest-elements](https://github.com/Jeeteshwar/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Jeeteshwar/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Jeeteshwar/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/Jeeteshwar/LeetCode/tree/master/0726-number-of-atoms) |
@@ -2056,6 +2060,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Jeeteshwar/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Jeeteshwar/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0658-find-k-closest-elements](https://github.com/Jeeteshwar/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Jeeteshwar/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Jeeteshwar/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/Jeeteshwar/LeetCode/tree/master/0794-swim-in-rising-water) |
@@ -2137,6 +2142,7 @@
 | [0567-permutation-in-string](https://github.com/Jeeteshwar/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Jeeteshwar/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Jeeteshwar/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0658-find-k-closest-elements](https://github.com/Jeeteshwar/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0867-new-21-game](https://github.com/Jeeteshwar/LeetCode/tree/master/0867-new-21-game) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Jeeteshwar/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/Jeeteshwar/LeetCode/tree/master/0940-fruit-into-baskets) |
