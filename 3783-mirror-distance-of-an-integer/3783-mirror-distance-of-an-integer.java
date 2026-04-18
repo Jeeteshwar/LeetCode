@@ -14,6 +14,6 @@ class Solution {
         return reverse;
     }
     public int mirrorDistance(int n) {
-        return Math.abs(reverse(n) - n);
+        return (reverse(n) > n ) ? (reverse(n) - n ) : (n - reverse(n));
     }
 }
