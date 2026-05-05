@@ -1,7 +1,4 @@
-select (
-    Select distinct salary
-    from Employee 
-    ORDER BY salary desc 
-    LIMIT 1 OFFSET 1
-
-) as SecondHighestSalary ;
+SELECT MAX(salary) as SecondHighestSalary
+FROM Employee
+where salary < (select MAX(salary)
+from Employee);
