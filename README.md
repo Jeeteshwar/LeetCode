@@ -452,6 +452,7 @@
 | [1635-number-of-good-pairs](https://github.com/Jeeteshwar/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Jeeteshwar/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/Jeeteshwar/LeetCode/tree/master/1656-count-good-triplets) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Jeeteshwar/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1677-matrix-diagonal-sum](https://github.com/Jeeteshwar/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Jeeteshwar/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/Jeeteshwar/LeetCode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
@@ -1082,6 +1083,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Jeeteshwar/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Jeeteshwar/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Jeeteshwar/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Jeeteshwar/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Jeeteshwar/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Jeeteshwar/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -1184,6 +1186,7 @@
 | [1612-avoid-flood-in-the-city](https://github.com/Jeeteshwar/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Jeeteshwar/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Jeeteshwar/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Jeeteshwar/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Jeeteshwar/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/Jeeteshwar/LeetCode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Jeeteshwar/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
