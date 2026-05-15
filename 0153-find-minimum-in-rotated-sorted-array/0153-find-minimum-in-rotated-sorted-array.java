@@ -1,8 +1,8 @@
 class Solution {
     public int findMin(int[] nums) {
         PriorityQueue<Integer> pq = new PriorityQueue<>();
-        
-        for(int num :nums){
+
+        for(int num : nums){
             pq.add(num);
         }
         return pq.peek();
