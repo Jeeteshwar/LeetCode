@@ -402,6 +402,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/Jeeteshwar/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Jeeteshwar/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/Jeeteshwar/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1306-jump-game-iii](https://github.com/Jeeteshwar/LeetCode/tree/master/1306-jump-game-iii) |
 | [1325-path-with-maximum-probability](https://github.com/Jeeteshwar/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Jeeteshwar/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Jeeteshwar/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -1527,6 +1528,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/Jeeteshwar/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Jeeteshwar/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Jeeteshwar/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [1306-jump-game-iii](https://github.com/Jeeteshwar/LeetCode/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Jeeteshwar/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1382-balance-a-binary-search-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
@@ -1588,6 +1590,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Jeeteshwar/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Jeeteshwar/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [1306-jump-game-iii](https://github.com/Jeeteshwar/LeetCode/tree/master/1306-jump-game-iii) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Jeeteshwar/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/Jeeteshwar/LeetCode/tree/master/1396-count-servers-that-communicate) |
