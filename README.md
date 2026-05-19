@@ -82,6 +82,7 @@
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Jeeteshwar/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Jeeteshwar/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Jeeteshwar/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2540-minimum-common-value](https://github.com/Jeeteshwar/LeetCode/tree/master/2540-minimum-common-value) |
 | [2551-apply-operations-to-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/Jeeteshwar/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Jeeteshwar/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -589,6 +590,7 @@
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Jeeteshwar/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2529-range-product-queries-of-powers](https://github.com/Jeeteshwar/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Jeeteshwar/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2540-minimum-common-value](https://github.com/Jeeteshwar/LeetCode/tree/master/2540-minimum-common-value) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Jeeteshwar/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2551-apply-operations-to-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Jeeteshwar/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -893,6 +895,7 @@
 | [2486-most-frequent-even-element](https://github.com/Jeeteshwar/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/Jeeteshwar/LeetCode/tree/master/2502-sort-the-people) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Jeeteshwar/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2540-minimum-common-value](https://github.com/Jeeteshwar/LeetCode/tree/master/2540-minimum-common-value) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Jeeteshwar/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2561-number-of-distinct-averages](https://github.com/Jeeteshwar/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -1018,6 +1021,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Jeeteshwar/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Jeeteshwar/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Jeeteshwar/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2540-minimum-common-value](https://github.com/Jeeteshwar/LeetCode/tree/master/2540-minimum-common-value) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Jeeteshwar/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Jeeteshwar/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
