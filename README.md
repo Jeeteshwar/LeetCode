@@ -1412,6 +1412,7 @@
 | [2630-alternating-digit-sum](https://github.com/Jeeteshwar/LeetCode/tree/master/2630-alternating-digit-sum) |
 | [2645-pass-the-pillow](https://github.com/Jeeteshwar/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Jeeteshwar/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
+| [2652-sum-multiples](https://github.com/Jeeteshwar/LeetCode/tree/master/2652-sum-multiples) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Jeeteshwar/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Jeeteshwar/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/Jeeteshwar/LeetCode/tree/master/2716-prime-subtraction-operation) |
