@@ -491,6 +491,7 @@
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Jeeteshwar/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/Jeeteshwar/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Jeeteshwar/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Jeeteshwar/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Jeeteshwar/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Jeeteshwar/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -1146,6 +1147,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Jeeteshwar/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Jeeteshwar/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1833-maximum-ice-cream-bars](https://github.com/Jeeteshwar/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Jeeteshwar/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Jeeteshwar/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Jeeteshwar/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -1258,6 +1260,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/Jeeteshwar/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/Jeeteshwar/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Jeeteshwar/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Jeeteshwar/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Jeeteshwar/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Jeeteshwar/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Jeeteshwar/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
