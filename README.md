@@ -192,6 +192,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Jeeteshwar/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/Jeeteshwar/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1954-replace-all-digits-with-characters](https://github.com/Jeeteshwar/LeetCode/tree/master/1954-replace-all-digits-with-characters) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jeeteshwar/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/Jeeteshwar/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Jeeteshwar/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/Jeeteshwar/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -512,6 +513,7 @@
 | [1929-concatenation-of-array](https://github.com/Jeeteshwar/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Jeeteshwar/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Jeeteshwar/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jeeteshwar/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Jeeteshwar/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/Jeeteshwar/LeetCode/tree/master/1972-rotating-the-box) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Jeeteshwar/LeetCode/tree/master/1975-minimum-distance-to-the-target-element) |
