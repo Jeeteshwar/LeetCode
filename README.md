@@ -712,6 +712,7 @@
 | [3291-find-if-array-can-be-sorted](https://github.com/Jeeteshwar/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Jeeteshwar/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Jeeteshwar/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3321-type-of-triangle](https://github.com/Jeeteshwar/LeetCode/tree/master/3321-type-of-triangle) |
@@ -983,6 +984,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/Jeeteshwar/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Jeeteshwar/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Jeeteshwar/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Jeeteshwar/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -1098,6 +1100,7 @@
 | [2904-sorting-three-groups](https://github.com/Jeeteshwar/LeetCode/tree/master/2904-sorting-three-groups) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Jeeteshwar/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Jeeteshwar/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3427-special-array-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3427-special-array-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Jeeteshwar/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3453-separate-squares-i) |
@@ -1466,6 +1469,7 @@
 | [3243-count-the-number-of-powerful-integers](https://github.com/Jeeteshwar/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Jeeteshwar/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Jeeteshwar/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3321-type-of-triangle](https://github.com/Jeeteshwar/LeetCode/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Jeeteshwar/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -2055,6 +2059,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/Jeeteshwar/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Jeeteshwar/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Jeeteshwar/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Jeeteshwar/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -2676,6 +2681,7 @@
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Jeeteshwar/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Jeeteshwar/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Jeeteshwar/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Jeeteshwar/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Jeeteshwar/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3427-special-array-ii) |
@@ -2714,6 +2720,7 @@
 | [2716-prime-subtraction-operation](https://github.com/Jeeteshwar/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Jeeteshwar/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Jeeteshwar/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Jeeteshwar/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Jeeteshwar/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Jeeteshwar/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Jeeteshwar/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -2831,6 +2838,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Jeeteshwar/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Jeeteshwar/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3548-find-the-count-of-good-integers](https://github.com/Jeeteshwar/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Jeeteshwar/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Jeeteshwar/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
