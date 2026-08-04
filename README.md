@@ -820,6 +820,7 @@
 | [3689-maximum-total-subarray-value-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3697-compute-decimal-representation](https://github.com/Jeeteshwar/LeetCode/tree/master/3697-compute-decimal-representation) |
+| [3701-compute-alternating-sum](https://github.com/Jeeteshwar/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3719-longest-balanced-subarray-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/Jeeteshwar/LeetCode/tree/master/3731-find-missing-elements) |
@@ -1898,6 +1899,7 @@
 | [3614-process-string-with-special-operations-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Jeeteshwar/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3701-compute-alternating-sum](https://github.com/Jeeteshwar/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Jeeteshwar/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
