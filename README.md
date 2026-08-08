@@ -567,6 +567,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Jeeteshwar/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2145-grid-game](https://github.com/Jeeteshwar/LeetCode/tree/master/2145-grid-game) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Jeeteshwar/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2155-find-missing-observations](https://github.com/Jeeteshwar/LeetCode/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Jeeteshwar/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Jeeteshwar/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -946,6 +947,7 @@
 | [2079-delete-duplicate-folders-in-system](https://github.com/Jeeteshwar/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/Jeeteshwar/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Jeeteshwar/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2169-simple-bank-system](https://github.com/Jeeteshwar/LeetCode/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Jeeteshwar/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -2095,6 +2097,7 @@
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Jeeteshwar/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Jeeteshwar/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Jeeteshwar/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Jeeteshwar/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Jeeteshwar/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
