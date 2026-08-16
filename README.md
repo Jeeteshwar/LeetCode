@@ -550,6 +550,7 @@
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Jeeteshwar/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Jeeteshwar/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2023-design-movie-rental-system](https://github.com/Jeeteshwar/LeetCode/tree/master/2023-design-movie-rental-system) |
+| [2029-stone-game-ix](https://github.com/Jeeteshwar/LeetCode/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Jeeteshwar/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2035-count-sub-islands](https://github.com/Jeeteshwar/LeetCode/tree/master/2035-count-sub-islands) |
 | [2048-build-array-from-permutation](https://github.com/Jeeteshwar/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -1337,6 +1338,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/Jeeteshwar/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Jeeteshwar/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1975-maximum-matrix-sum](https://github.com/Jeeteshwar/LeetCode/tree/master/1975-maximum-matrix-sum) |
+| [2029-stone-game-ix](https://github.com/Jeeteshwar/LeetCode/tree/master/2029-stone-game-ix) |
 | [2032-largest-odd-number-in-string](https://github.com/Jeeteshwar/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Jeeteshwar/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-maximum-matrix-sum](https://github.com/Jeeteshwar/LeetCode/tree/master/2089-maximum-matrix-sum) |
@@ -1479,6 +1481,7 @@
 | [1965-sum-of-digits-in-base-k](https://github.com/Jeeteshwar/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jeeteshwar/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Jeeteshwar/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2029-stone-game-ix](https://github.com/Jeeteshwar/LeetCode/tree/master/2029-stone-game-ix) |
 | [2032-largest-odd-number-in-string](https://github.com/Jeeteshwar/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Jeeteshwar/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2050-count-good-numbers](https://github.com/Jeeteshwar/LeetCode/tree/master/2050-count-good-numbers) |
@@ -2111,6 +2114,7 @@
 | [1635-number-of-good-pairs](https://github.com/Jeeteshwar/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Jeeteshwar/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Jeeteshwar/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2029-stone-game-ix](https://github.com/Jeeteshwar/LeetCode/tree/master/2029-stone-game-ix) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Jeeteshwar/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Jeeteshwar/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Jeeteshwar/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -2651,6 +2655,7 @@
 | [1240-stone-game-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/1240-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Jeeteshwar/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Jeeteshwar/LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Jeeteshwar/LeetCode/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/Jeeteshwar/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Union Find
 |  |
@@ -3007,16 +3012,19 @@
 | [1140-stone-game-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Jeeteshwar/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Jeeteshwar/LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Jeeteshwar/LeetCode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Jeeteshwar/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Jeeteshwar/LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Jeeteshwar/LeetCode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Jeeteshwar/LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Jeeteshwar/LeetCode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
