@@ -526,6 +526,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Jeeteshwar/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Jeeteshwar/LeetCode/tree/master/1861-rotating-the-box) |
+| [1872-stone-game-viii](https://github.com/Jeeteshwar/LeetCode/tree/master/1872-stone-game-viii) |
 | [1876-map-of-highest-peak](https://github.com/Jeeteshwar/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Jeeteshwar/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Jeeteshwar/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -1486,6 +1487,7 @@
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Jeeteshwar/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1806-count-of-matches-in-tournament](https://github.com/Jeeteshwar/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Jeeteshwar/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1872-stone-game-viii](https://github.com/Jeeteshwar/LeetCode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Jeeteshwar/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Jeeteshwar/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/Jeeteshwar/LeetCode/tree/master/1925-count-square-sum-triples) |
@@ -2561,6 +2563,7 @@
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Jeeteshwar/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1871-jump-game-vii](https://github.com/Jeeteshwar/LeetCode/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/Jeeteshwar/LeetCode/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Jeeteshwar/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Jeeteshwar/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Jeeteshwar/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -2675,6 +2678,7 @@
 | [1406-stone-game-iii](https://github.com/Jeeteshwar/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Jeeteshwar/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Jeeteshwar/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Jeeteshwar/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Jeeteshwar/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Jeeteshwar/LeetCode/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/Jeeteshwar/LeetCode/tree/master/3462-vowels-game-in-a-string) |
@@ -2771,6 +2775,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/Jeeteshwar/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/Jeeteshwar/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/Jeeteshwar/LeetCode/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/Jeeteshwar/LeetCode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Jeeteshwar/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Jeeteshwar/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-largest-magic-square](https://github.com/Jeeteshwar/LeetCode/tree/master/1895-largest-magic-square) |
@@ -3035,6 +3040,7 @@
 | [1140-stone-game-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Jeeteshwar/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Jeeteshwar/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Jeeteshwar/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Jeeteshwar/LeetCode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -3042,6 +3048,7 @@
 | [1140-stone-game-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Jeeteshwar/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Jeeteshwar/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Jeeteshwar/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Jeeteshwar/LeetCode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
