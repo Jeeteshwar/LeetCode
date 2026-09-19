@@ -1497,6 +1497,7 @@
 | [1240-stone-game-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/1240-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Jeeteshwar/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Jeeteshwar/LeetCode/tree/master/1390-four-divisors) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Jeeteshwar/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Jeeteshwar/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1406-stone-game-iii](https://github.com/Jeeteshwar/LeetCode/tree/master/1406-stone-game-iii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Jeeteshwar/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -3014,6 +3015,7 @@
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Jeeteshwar/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Jeeteshwar/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Jeeteshwar/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Jeeteshwar/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Jeeteshwar/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
