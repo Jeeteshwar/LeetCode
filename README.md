@@ -812,6 +812,7 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Jeeteshwar/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Jeeteshwar/LeetCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -1603,6 +1604,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/Jeeteshwar/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Jeeteshwar/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Jeeteshwar/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3568-find-the-key-of-the-numbers](https://github.com/Jeeteshwar/LeetCode/tree/master/3568-find-the-key-of-the-numbers) |
