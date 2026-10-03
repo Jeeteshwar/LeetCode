@@ -114,6 +114,7 @@
 | [0020-valid-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jeeteshwar/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Jeeteshwar/LeetCode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Jeeteshwar/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Jeeteshwar/LeetCode/tree/master/0067-add-binary) |
@@ -2137,6 +2138,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Jeeteshwar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Jeeteshwar/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Jeeteshwar/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
@@ -2584,6 +2586,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jeeteshwar/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Jeeteshwar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Jeeteshwar/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Jeeteshwar/LeetCode/tree/master/0070-climbing-stairs) |
@@ -3158,6 +3161,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Jeeteshwar/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
