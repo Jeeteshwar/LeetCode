@@ -150,6 +150,7 @@
 | [0782-jewels-and-stones](https://github.com/Jeeteshwar/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Jeeteshwar/LeetCode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/Jeeteshwar/LeetCode/tree/master/0812-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0886-score-of-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/0886-score-of-parentheses) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Jeeteshwar/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-distinct-subsequences-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0940-distinct-subsequences-ii) |
@@ -2150,6 +2151,7 @@
 | [0726-number-of-atoms](https://github.com/Jeeteshwar/LeetCode/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Jeeteshwar/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Jeeteshwar/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0856-score-of-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0886-score-of-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Jeeteshwar/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Jeeteshwar/LeetCode/tree/master/1002-maximum-width-ramp) |
@@ -3167,6 +3169,7 @@
 | [0022-generate-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Jeeteshwar/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Jeeteshwar/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
