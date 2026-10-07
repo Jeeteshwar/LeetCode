@@ -124,6 +124,7 @@
 | [0214-shortest-palindrome](https://github.com/Jeeteshwar/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Jeeteshwar/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0301-remove-invalid-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jeeteshwar/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Jeeteshwar/LeetCode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Jeeteshwar/LeetCode/tree/master/0415-add-strings) |
@@ -1832,6 +1833,7 @@
 | [0112-path-sum](https://github.com/Jeeteshwar/LeetCode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Jeeteshwar/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Jeeteshwar/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0404-sum-of-left-leaves](https://github.com/Jeeteshwar/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Jeeteshwar/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -2832,6 +2834,7 @@
 | [0022-generate-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Jeeteshwar/LeetCode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Jeeteshwar/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Jeeteshwar/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/Jeeteshwar/LeetCode/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/Jeeteshwar/LeetCode/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/Jeeteshwar/LeetCode/tree/master/0679-24-game) |
