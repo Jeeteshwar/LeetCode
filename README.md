@@ -643,6 +643,7 @@
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Jeeteshwar/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Jeeteshwar/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Jeeteshwar/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Jeeteshwar/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -1179,6 +1180,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Jeeteshwar/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Jeeteshwar/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Jeeteshwar/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Jeeteshwar/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Jeeteshwar/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -1295,6 +1297,7 @@
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Jeeteshwar/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Jeeteshwar/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Jeeteshwar/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Jeeteshwar/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Jeeteshwar/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Jeeteshwar/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/Jeeteshwar/LeetCode/tree/master/2402-meeting-rooms-iii) |
@@ -1423,6 +1426,7 @@
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Jeeteshwar/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Jeeteshwar/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Jeeteshwar/LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Jeeteshwar/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Jeeteshwar/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Jeeteshwar/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Jeeteshwar/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -2477,6 +2481,7 @@
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Jeeteshwar/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Jeeteshwar/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Jeeteshwar/LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Jeeteshwar/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Jeeteshwar/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2402-meeting-rooms-iii](https://github.com/Jeeteshwar/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/Jeeteshwar/LeetCode/tree/master/2429-design-a-food-rating-system) |
