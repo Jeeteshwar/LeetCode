@@ -592,6 +592,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Jeeteshwar/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Jeeteshwar/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2089-maximum-matrix-sum](https://github.com/Jeeteshwar/LeetCode/tree/master/2089-maximum-matrix-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Jeeteshwar/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -1180,6 +1181,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Jeeteshwar/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Jeeteshwar/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Jeeteshwar/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Jeeteshwar/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Jeeteshwar/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Jeeteshwar/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -1294,6 +1296,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Jeeteshwar/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Jeeteshwar/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Jeeteshwar/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Jeeteshwar/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2092-find-all-people-with-secret](https://github.com/Jeeteshwar/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Jeeteshwar/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Jeeteshwar/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
